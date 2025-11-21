@@ -42,6 +42,8 @@ I am leading the aerodynamic design and fin-can integration for FAST’s 2026 In
 - **CP:** 65.208 in  
 
 <img src="/engineering-portfolio/assets/img/IREC.PNG" width="480" style="border-radius: 8px; margin-top: 10px;">
+<br>
+*IREC Rocket – SolidWorks Model (Draft)*
 
 ### Current Work  
 - Finalizing manufacturable fin-can design  
