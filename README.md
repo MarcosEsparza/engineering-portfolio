@@ -9,20 +9,6 @@ Mechanical Engineering | Energy Systems | High-Power Rocketry
 
 I'm a Mechanical Engineering student with hands-on experience in aerospace systems and high-power rocketry, seeking a role where I can contribute to testing and analysis while deepening my technical skills through real engineering work. I’m currently the Aerodynamic Design Lead for Falcon Aeronautics and Space Team, focusing on fin can design, structural integration, and design iteration for our 10,000ft COTS rocket.
 
-
----
-
-## Rocketry Club
-
-### Falcon Aeronautics and Space Team – Aerodynamic Design Lead and Assembly
-**Tools:** SOLIDWORKS, MATLAB, OpenRocket  
-
-- Lead fin design, structural integration, and assembly coordination for a 10,000-ft COTS competition rocket.  
-- Developed aerodynamic models, stability analyses, and manufacturing plans that improved design confidence and component integration.
-
-**Links:**   
-- [FAST Instagram Page](https://www.instagram.com/fast.utpb/)  
-
 ---
 
 ## Featured Project – IREC 2026: FAST 10k COTS Rocket  
@@ -69,6 +55,23 @@ I am leading the aerodynamic design and fin-can integration for FAST’s 2026 In
 
 ---
 
+---
+
+## Rocketry Club
+
+### Falcon Aeronautics and Space Team – Aerodynamic Design Lead and Assembly
+**Tools:** SOLIDWORKS, MATLAB, OpenRocket  
+
+- Lead fin design, structural integration, and assembly coordination for a 10,000-ft COTS competition rocket.  
+- Developed aerodynamic models, stability analyses, and manufacturing plans that improved design confidence and component integration.
+
+**Links:**   
+- [FAST Instagram Page](https://www.instagram.com/fast.utpb/)  
+
+---
+## Projects
+---
+
 ## High-Power Rocket Certifications
 
 ### **Level 1 Certification – Completed**
@@ -96,7 +99,7 @@ I am leading the aerodynamic design and fin-can integration for FAST’s 2026 In
 - Dual-deploy recovery system
 
 <img src="/engineering-portfolio/assets/img/L2Cert.PNG" width="480" style="border-radius: 8px; margin-top: 10px;">
-
+<br>
 **L2 Certification Rocket – OpenRocket Simulation**
 
 ---
