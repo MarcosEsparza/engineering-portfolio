@@ -11,6 +11,14 @@ I'm a Mechanical Engineering student with hands-on experience in aerospace syste
 
 ---
 
+## Resume
+
+You can view or download my resume below:
+
+**[📄 View My Resume (PDF)](/engineering-portfolio/assets/img/MarcosEsparza_Resume.pdf)**  
+
+---
+
 ## Featured Project – IREC 2026: FAST 10k COTS Rocket  
 **Role:** Aerodynamic Design Lead  
 **Team:** Falcon Aeronautics & Space Team (FAST), UTPB  
@@ -62,8 +70,7 @@ I am leading the aerodynamic design and fin-can integration for FAST’s 2026 In
 ### Falcon Aeronautics and Space Team – Aerodynamic Design Lead and Assembly
 **Tools:** SOLIDWORKS, MATLAB, OpenRocket  
 
-- Lead fin design, structural integration, and assembly coordination for a 10,000-ft COTS competition rocket.  
-- Developed aerodynamic models, stability analyses, and manufacturing plans that improved design confidence and component integration.
+- The mission of the Falcon Aeronautics and Space Team at the University of Texas Permian Basin is to engage students in aerospace and space exploration through hands-on research, innovation, and competitive projects. By fostering collaboration across academic disciplines and partnering with both internal and external organizations, Falcon Aeronautics and Space Team seek to advance student learning and contribute to aerospace development in the Permian Basin.
 
 **Links:**   
 - [FAST Instagram Page](https://www.instagram.com/fast.utpb/)  
