@@ -57,8 +57,6 @@ I am leading the aerodynamic design and fin-can integration for FAST’s 2026 In
 
 ---
 
----
-
 ## Rocketry Club
 
 ### Falcon Aeronautics and Space Team – Aerodynamic Design Lead and Assembly
@@ -70,7 +68,9 @@ I am leading the aerodynamic design and fin-can integration for FAST’s 2026 In
 **Links:**   
 - [FAST Instagram Page](https://www.instagram.com/fast.utpb/)  
 
+---
 ## Projects
+---
 
 ## High-Power Rocket Certifications
 
@@ -87,6 +87,7 @@ I am leading the aerodynamic design and fin-can integration for FAST’s 2026 In
   <source src="/engineering-portfolio/assets/img/IMG_4424.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<br>
 
 ---
 
@@ -139,8 +140,6 @@ I am leading the aerodynamic design and fin-can integration for FAST’s 2026 In
 **Software:** SOLIDWORKS, MATLAB, OpenRocket, LabVIEW, Excel  
 **Engineering Skills:** Aerodynamic/Structural Design, Systems Integration, Mechanical Assembly, Technical Writing  
 **Certifications:** Tripoli/NAR Level 1 Certified; Level 2 In Progress  
-
----
 
 ---
 
