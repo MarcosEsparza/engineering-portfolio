@@ -12,42 +12,60 @@ I'm a Mechanical Engineering student with hands-on experience in aerospace syste
 
 ---
 
-## Projects
+## Rocketry Club
 
 ### Falcon Aeronautics and Space Team – Aerodynamic Design Lead and Assembly
 **Tools:** SOLIDWORKS, MATLAB, OpenRocket  
-**Team:** Falcon Aeronautics & Space Team, UTPB  
 
 - Lead fin design, structural integration, and assembly coordination for a 10,000-ft COTS competition rocket.  
 - Developed aerodynamic models, stability analyses, and manufacturing plans that improved design confidence and component integration.
 
-**Links:**  
-- [FAST 10k COTS GitHub Repository](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team)  
+**Links:**   
 - [FAST Instagram Page](https://www.instagram.com/fast.utpb/)  
-- [Aluminum Fin-Can MATLAB Code](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team/blob/main/simulations/matlab/fin_flutter/AluminumFinCan.m)
 
 ---
 
-### Current Work – IREC 2026 (10k COTS)
+## Featured Project – IREC 2026: FAST 10k COTS Rocket  
+**Role:** Aerodynamic Design Lead  
+**Team:** Falcon Aeronautics & Space Team (FAST), UTPB  
+**Tools:** SOLIDWORKS, MATLAB, OpenRocket, Excel
 
-**Project Metrics (Latest Simulation – L1500T)**  
+### Overview  
+I am leading the aerodynamic design and fin-can integration for FAST’s 2026 Intercollegiate Rocket Engineering Competition (IREC) 10k COTS entry. My work focuses on fin geometry development, flutter and stability analysis, and coordination of structural and manufacturing designs for a fully modular aluminum fin-can system.
 
-- Apogee: **10,990 ft**  
-- Max velocity: **1,191 ft/s (Mach 1.077)**  
-- Max acceleration: **431 ft/s²**  
-- Stability margin: **2.76 cal (13.2%)**  
-- Airframe length: **84 in**, diameter: **4.02 in**  
-- CG: **54.094 in**  
-- CP: **65.208 in**  
+### Objectives  
+- Reach **10,000 ft apogee** using commercial-off-the-shelf propulsion  
+- Maintain **supersonic stability margins**  
+- Develop a **bolt-in aluminum fin-can** with no adhesive load paths  
+- Produce documentation aligned with the new **AIAA student-publishing track**
 
-**Fin-Can & Structure**  
+### Engineering Contributions  
+- Designed fin surfaces and refined geometry using MATLAB flutter boundaries and OpenRocket iteration  
+- Built the modular 4.02-in airframe model in SOLIDWORKS  
+- Verified >**1.5× Vmax** flutter margin using custom MATLAB code  
+- Integrated recovery system, avionics bay, and internal structure  
+- Created documentation workflow for the 2026 technical report  
+[MATLAB Fin Flutter Code](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team/blob/main/simulations/matlab/fin_flutter/AluminumFinCan.m)
 
-- Fin flutter margin: **>1.5× Vmax** (validated via MATLAB)  
-- Aluminum fin can, bolted internal structure  
-- Modular three-section airframe  
+### Latest Flight Simulation (L1500T)  
+- **Apogee:** 10,990 ft  
+- **Max velocity:** 1,191 ft/s (Mach 1.077)  
+- **Max acceleration:** 431 ft/s²  
+- **Stability margin at launch:** 2.76 cal (13.2%)  
+- **CG:** 54.094 in  
+- **CP:** 65.208 in  
 
 <img src="/engineering-portfolio/assets/img/IREC.PNG" width="480" style="border-radius: 8px; margin-top: 10px;">
-**IREC Rocket – SolidWorks Model (Draft)**
+
+### Current Work  
+- Finalizing manufacturable fin-can design  
+- Updating MATLAB models for the new fin geometry  
+- Avionics bay layout (dual altimeters + wiring paths)  
+- CAD assembly validation & section coupler alignment  
+- Creating figure library for the IREC report  
+
+**GitHub Repository:**  
+[FAST 10k COTS – Falcon Aeronautics & Space Team](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team)
 
 ---
 
