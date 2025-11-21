@@ -121,6 +121,17 @@ I'm a Mechanical Engineering student with hands-on experience in aerospace syste
 
 ---
 
+---
+
+## Organizations & Memberships
+
+- **American Society of Mechanical Engineers (ASME)** – Student Member  
+- **National Association of Rocketry (NAR)** – Student Member  
+- **Tripoli Rocketry Association (TRA)** – Student Member  
+- **American Institute of Aeronautics and Astronautics (AIAA)** – Student Member  
+
+---
+
 ## Contact
 Email: **esparza_m58311@utpb.edu**  
 LinkedIn: **https://www.linkedin.com/in/marcos-v-esparza/**
