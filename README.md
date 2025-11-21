@@ -46,7 +46,7 @@ I'm a Mechanical Engineering student with hands-on experience in aerospace syste
 - Aluminum fin can, bolted internal structure  
 - Modular three-section airframe  
 
-<img src="/portfolio/assets/img/IREC.PNG" width="480" style="border-radius: 8px; margin-top: 10px;">
+<img src="/engineering-portfolio/assets/img/IREC.PNG" width="480" style="border-radius: 8px; margin-top: 10px;">
 **IREC Rocket – SolidWorks Model (Draft)**
 
 ---
@@ -77,7 +77,7 @@ I'm a Mechanical Engineering student with hands-on experience in aerospace syste
 - Stability margin: **~1.9 cal**  
 - Dual-deploy recovery system
 
-<img src="/portfolio/assets/img/L2Cert.PNG" width="480" style="border-radius: 8px; margin-top: 10px;">
+<img src="/engineering-portfolio/assets/img/L2Cert.PNG" width="480" style="border-radius: 8px; margin-top: 10px;">
 **L2 Certification Rocket – OpenRocket Simulation**
 
 ---
@@ -88,7 +88,7 @@ I'm a Mechanical Engineering student with hands-on experience in aerospace syste
 - Analyzed SR-30 mini turbine performance and related experimental data to Brayton cycle theory.  
 - Evaluated fuel-to-power conversion and efficiency trends as part of a collaborative lab team.
 
-<img src="/portfolio/assets/img/GasTurbine.png" width="480" style="border-radius: 8px; margin-top: 10px;">
+<img src="/engineering-portfolio/assets/img/GasTurbine.png" width="480" style="border-radius: 8px; margin-top: 10px;">
 **SR-30 Mini Turbojet – Lab Test Setup**
 
 ---
@@ -99,7 +99,7 @@ I'm a Mechanical Engineering student with hands-on experience in aerospace syste
 - Measured airflow velocity and pressure losses across a rod-bank using the TecQuipment TE93 system, confirming a linear relationship between upstream dynamic pressure (ΔP₁) and pressure drop (ΔP₂).  
 - Calculated mean airflow velocity up to **~27 m/s** at full valve opening.
 
-[View Full Lab Report (PDF)](/portfolio/assets/img/Lab6%20Cross%20Flow%20Heat%20Exchanger%20(1).pdf)
+[View Full Lab Report (PDF)](/engineering-portfolio/assets/img/Lab6%20Cross%20Flow%20Heat%20Exchanger%20(1).pdf)
 
 ---
 
@@ -109,7 +109,7 @@ I'm a Mechanical Engineering student with hands-on experience in aerospace syste
 - Researched structural benefits of carbon-fiber composites vs aluminum for aircraft applications.  
 - Presented findings on weight reduction, stiffness, and fuel-efficiency improvements.
 
-[View Presentation (PDF)](/portfolio/assets/img/Material%20Science%20Project.pdf)
+[View Presentation (PDF)](/engineering-portfolio/assets/img/Material%20Science%20Project.pdf)
 
 ---
 
