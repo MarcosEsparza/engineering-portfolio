@@ -63,7 +63,7 @@ I'm a Mechanical Engineering student with hands-on experience in aerospace syste
 **L1 Flight Video**
 
 <video width="480" controls>
-  <source src="/portfolio/assets/img/IMG_4424.mp4" type="video/mp4">
+  <source src="/engineering-portfolio/assets/img/IMG_4424.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
