@@ -78,6 +78,7 @@ I'm a Mechanical Engineering student with hands-on experience in aerospace syste
 - Dual-deploy recovery system
 
 <img src="/engineering-portfolio/assets/img/L2Cert.PNG" width="480" style="border-radius: 8px; margin-top: 10px;">
+
 **L2 Certification Rocket – OpenRocket Simulation**
 
 ---
