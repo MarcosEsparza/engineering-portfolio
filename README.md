@@ -122,7 +122,7 @@ I'm a Mechanical Engineering student with hands-on experience in aerospace syste
 
 ## Contact
 Email: **esparza_m58311@utpb.edu**  
-LinkedIn: **https://www.linkedin.com/in/marcosesparza/**
+LinkedIn: **https://www.linkedin.com/in/marcos-v-esparza/**
 
 [Back to Top](#portfolio)
 
