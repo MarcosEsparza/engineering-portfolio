@@ -120,12 +120,6 @@ I'm a Mechanical Engineering student with hands-on experience in aerospace syste
 
 ---
 
-## IREC GitHub Repository
-Full source code, CAD files, simulations, and documentation for FAST’s 10k COTS rocket:  
-**[Falcon Aeronautics & Space Team – 10k COTS Repository](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team)**  
-
----
-
 ## Contact
 Email: **esparza_m58311@utpb.edu**  
 LinkedIn: **https://www.linkedin.com/in/marcosesparza/**
