@@ -68,9 +68,7 @@ I am leading the aerodynamic design and fin-can integration for FAST’s 2026 In
 **Links:**   
 - [FAST Instagram Page](https://www.instagram.com/fast.utpb/)  
 
----
 ## Projects
----
 
 ## High-Power Rocket Certifications
 
