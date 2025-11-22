@@ -88,8 +88,8 @@ Mechanical Engineering student with hands-on experience in CAD, simulation, and 
 ---
 
 ## Skills
-- **Software:** SOLIDWORKS, MATLAB, OpenRocket, LabVIEW, Excel  
-- **Engineering:** Aerodynamics, Structural Design, CAD, Testing, Data Analysis  
+- **Software:** MATLAB, SOLIDWORKS, OpenRocket, LabVIEW, Excel  
+- **Engineering:** Aerodynamics, Structural/Mechanical Design, CAD Modeling, Data Analysis, Testing 
 - **Certifications:** Tripoli/NAR Level 1 (Level 2 in progress)  
 
 ---
