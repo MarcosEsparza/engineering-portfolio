@@ -54,16 +54,17 @@ strong, b {
 
 .downloads a {
   background-color: #111 !important;       /* dark background */
-  color: #e6e6e6 !important;               /* light text */
-  border: 1px solid #66aaff !important;    /* blue outline */
-  border-radius: 999px !important;         /* pill style */
+  color: #e6e6e6 !important;
+  border: 1px solid #66aaff !important;
+  border-radius: 999px !important;         /* pill shape */
   padding: 8px 14px !important;
   display: inline-block !important;
-  margin: 4px 4px 0 0 !important;
+  margin: -2px 0 0 14px !important;        /* UP & RIGHT adjustment */
   font-size: 0.85rem !important;
   text-decoration: none !important;
   transition: 0.2s ease-in-out !important;
 }
+
 
 .downloads a:hover {
   background-color: #222 !important;        /* hover shade */
