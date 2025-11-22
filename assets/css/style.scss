@@ -1,0 +1,39 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+// ===== DARK MODE OVERRIDES =====
+
+// Page background
+body {
+  background-color: #111 !important;
+  color: #e8e8e8 !important;
+}
+
+// Sidebar background
+.sidebar {
+  background-color: #0d0d0d !important;
+  color: #e8e8e8 !important;
+}
+
+// Sidebar links
+.sidebar a {
+  color: #66aaff !important;
+}
+
+// Main content links
+a {
+  color: #66aaff !important;
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  color: #f0f0f0 !important;
+}
+
+// Code blocks
+pre, code {
+  background-color: #1a1a1a !important;
+  color: #e8e8e8 !important;
+}

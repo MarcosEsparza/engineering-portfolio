@@ -4,8 +4,7 @@ Mechanical Engineering • Energy Systems • High-Power Rocketry
 ---
 
 ## About Me
-- Mechanical Engineering student with experience in CAD, simulation, and high-power rocketry  
-- Aerodynamic Design Lead for the Falcon Aeronautics and Space Team, focusing on fin-can design, structural integration, and performance analysis for a 10,000 ft COTS rocket  
+Mechanical Engineering student with hands-on experience in CAD, simulation, and high-power rocketry. Aerodynamic Design Lead for the Falcon Aeronautics & Space Team, focusing on fin-can design, structural integration, and performance analysis for a 10,000-ft COTS rocket. 
 
 ---
 
@@ -42,8 +41,7 @@ Mechanical Engineering • Energy Systems • High-Power Rocketry
 ---
 
 ## Rocketry Club
-- Aerodynamic Design Lead for the Falcon Aeronautics and Space Team  
-- Work includes fin-can design, CAD modeling, simulation, and assembly for competition rockets  
+- The mission of the Falcon Aeronautics and Space Team at the University of Texas Permian Basin is to engage students in aerospace and space exploration through hands-on research, innovation, and competitive projects. By fostering collaboration across academic disciplines and partnering with both internal and external organizations, Falcon Aeronautics and Space Team seek to advance student learning and contribute to aerospace development in the Permian Basin.
 - **FAST Instagram:** https://www.instagram.com/fast.utpb/  
 
 ---
@@ -108,3 +106,4 @@ Mechanical Engineering • Energy Systems • High-Power Rocketry
 - **Email:** esparza_m58311@utpb.edu  
 - **LinkedIn:** https://www.linkedin.com/in/marcos-v-esparza/
 
+[Back to Top](#portfolio)
