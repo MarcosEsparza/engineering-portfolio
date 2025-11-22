@@ -42,8 +42,7 @@ Mechanical Engineering • Energy Systems • High-Power Rocketry
 ---
 
 ## Rocketry Club
-- Aerodynamic Design Lead for the Falcon Aeronautics and Space Team  
-- Work includes fin-can design, CAD modeling, simulation, and assembly for competition rockets  
+- The mission of the Falcon Aeronautics and Space Team at the University of Texas Permian Basin is to engage students in aerospace and space exploration through hands-on research, innovation, and competitive projects. By fostering collaboration across academic disciplines and partnering with both internal and external organizations, Falcon Aeronautics and Space Team seek to advance student learning and contribute to aerospace development in the Permian Basin.
 - **FAST Instagram:** https://www.instagram.com/fast.utpb/  
 
 ---
