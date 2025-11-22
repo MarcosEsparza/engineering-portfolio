@@ -37,3 +37,9 @@ pre, code {
   background-color: #1a1a1a !important;
   color: #e8e8e8 !important;
 }
+
+// Fix bold text visibility
+strong, b {
+  color: #f0f0f0 !important;  
+  font-weight: 700 !important; 
+}
