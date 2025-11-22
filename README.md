@@ -4,8 +4,7 @@ Mechanical Engineering • Energy Systems • High-Power Rocketry
 ---
 
 ## About Me
-- Mechanical Engineering student with experience in CAD, simulation, and high-power rocketry  
-- Aerodynamic Design Lead for the Falcon Aeronautics and Space Team, focusing on fin-can design, structural integration, and performance analysis for a 10,000 ft COTS rocket  
+Mechanical Engineering student with hands-on experience in CAD, simulation, and high-power rocketry. Aerodynamic Design Lead for the Falcon Aeronautics & Space Team, focusing on fin-can design, structural integration, and performance analysis for a 10,000-ft COTS rocket. 
 
 ---
 
