@@ -47,24 +47,26 @@ strong, b {
 /* ===== Sidebar "Download" / "View on GitHub" buttons ===== */
 
 .downloads {
-  margin-top: 10px !important;
+  margin-top: 14px !important;
+  text-align: left !important;      /* change to center if you prefer */
 }
 
 .downloads a {
-  background-color: #111 !important;        /* dark background */
-  color: #e6e6e6 !important;                /* light text */
-  border: 1px solid #66aaff !important;     /* blue outline */
-  border-radius: 6px !important;
+  background-color: #111 !important;       /* dark background */
+  color: #e6e6e6 !important;               /* light text */
+  border: 1px solid #66aaff !important;    /* blue outline */
+  border-radius: 999px !important;         /* pill style */
   padding: 8px 14px !important;
   display: inline-block !important;
   margin: 4px 4px 0 0 !important;
+  font-size: 0.85rem !important;
   text-decoration: none !important;
   transition: 0.2s ease-in-out !important;
 }
 
 .downloads a:hover {
-  background-color: #222 !important;        /* slightly lighter on hover */
+  background-color: #222 !important;        /* hover shade */
   color: #ffffff !important;                /* brighter text */
-  border-color: #99c5ff !important;         /* softer blue */
-  transform: translateY(-2px) !important;   /* subtle lift effect */
+  border-color: #99c5ff !important;         /* hover outline */
+  transform: translateY(-2px) !important;   /* lift effect */
 }
