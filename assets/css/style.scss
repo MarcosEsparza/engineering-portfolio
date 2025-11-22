@@ -47,9 +47,12 @@ strong, b {
 /* ===== Sidebar "Download" / "View on GitHub" buttons ===== */
 
 .downloads {
-  margin-top: 0px !important;    /* moves them UP */
-  margin-left: 0px !important;    /* moves them RIGHT */
+  margin-top: -6px !important;         /* moves the pills UP */
+  margin-left: -4px !important;        /* moves them LEFT */
   text-align: left !important;
+  background: transparent !important;  /* remove white background */
+  box-shadow: none !important;         /* remove outline */
+  border: none !important;             /* remove border */
 }
 
 .downloads a {
@@ -64,7 +67,6 @@ strong, b {
   text-decoration: none !important;
   transition: 0.2s ease-in-out !important;
 }
-
 
 .downloads a:hover {
   background-color: #222 !important;        /* hover shade */
