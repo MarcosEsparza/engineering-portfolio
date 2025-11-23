@@ -17,7 +17,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 
 ## Resume
 
-- **[📄 View Resume (PDF)](/engineering-portfolio/assets/img/MarcosEsparza_Resume.pdf)**  
+- **[📄 View Resume (PDF)](assets/img/MarcosEsparza_Resume.pdf)**
 
 ---
 
