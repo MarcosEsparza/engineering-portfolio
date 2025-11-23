@@ -18,6 +18,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 ## Resume
 
 - **[📄 View Resume (PDF)](assets/img/MarcosEsparza_Resume.pdf)**
+- **[🔗 View IREC GitHub Repo](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team)**
 
 ---
 
@@ -31,6 +32,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 
 - Leading aerodynamic design and fin-can development for FAST’s 10,000-ft COTS rocket for IREC.  
 - Focus on fin geometry, flutter and stability margins, and integration of recovery and avionics with the airframe.
+- Designing a modular fin-can and airframe to safely reach ~10,000 ft on an L-class motor while maintaining ≥1.5× flutter margin and competition-typical stability.
 
 ### Technical Scope
 
