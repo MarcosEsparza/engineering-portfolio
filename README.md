@@ -31,8 +31,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 ### Overview
 
 - Leading aerodynamic design and fin-can development for FAST’s 10,000-ft COTS rocket for IREC.  
-- Focus on fin geometry, flutter and stability margins, and integration of recovery and avionics with the airframe.
-- Designing a modular fin-can and airframe to safely reach ~10,000 ft on an L-class motor while maintaining ≥1.5× flutter margin and competition-typical stability.
+- Designing a modular fin-can and airframe to safely reach ~10,000 ft on an L-class motor while maintaining ≥1.5× flutter margin and competition-typical stability, with a focus on fin geometry, flutter and stability analysis, and recovery/avionics integration.
 
 ### Technical Scope
 
