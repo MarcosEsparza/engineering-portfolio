@@ -100,7 +100,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 - Measured airflow velocity and pressure drop across a rod bank using pitot-static and differential pressure transducers.  
 - Reached **~27 m/s** mean airflow at full valve opening and confirmed a linear relationship between dynamic pressure (ΔP₁) and pressure loss (ΔP₂).
 - Related experimental results to cross-flow correlations and discussed implications for heat exchanger design.  
-- **Report:** **Report:** [PDF](assets/img/Lab6_Cross_Flow_Heat_Exchanger.pdf)
+- **Report:** [PDF](/engineering-portfolio/assets/img/Lab6%20Cross%20Flow%20Heat%20Exchanger%20(2).pdf)
 
 ---
 
@@ -112,7 +112,8 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 - Ran bend-loss tests on the TecQuipment H408 for multiple bend radii, measuring head loss across fittings.
 - Calculated flow rate, Reynolds number, and loss coefficients *k* and *k<sub>L</sub>* and compared results to Moody/Blasius correlations.  
 - Discussed how friction and minor losses impact real piping systems and design of fluid networks.  
-
+- **Report:** [PDF](/engineering-portfolio/assets/img/Lab%204%20Bend%20Loss.pdf)
+- 
 ---
 
 ### Carbon Fiber in Aerospace — Materials Presentation
