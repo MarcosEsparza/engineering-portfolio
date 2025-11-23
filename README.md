@@ -109,7 +109,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 **Role:** Lab Team Member  
 **Tools:** H408 apparatus, pressure gauges, Excel  
 
-- Ran bend-loss tests on the TecQuipment H408 for multiple bend radii, measuring head loss across fittings. :contentReference[oaicite:3]{index=3}  
+- Ran bend-loss tests on the TecQuipment H408 for multiple bend radii, measuring head loss across fittings.
 - Calculated flow rate, Reynolds number, and loss coefficients *k* and *k<sub>L</sub>* and compared results to Moody/Blasius correlations.  
 - Discussed how friction and minor losses impact real piping systems and design of fluid networks.  
 
