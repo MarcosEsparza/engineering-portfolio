@@ -97,8 +97,8 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 **Role:** Lab Team Member  
 **Tools:** TE93 apparatus, pitot tube, DAQ, Excel  
 
-- Measured airflow velocity and pressure drop across a rod bank using pitot-static and differential pressure transducers. :contentReference[oaicite:1]{index=1}  
-- Reached **~27 m/s** mean airflow at full valve opening and confirmed a linear relationship between dynamic pressure (ΔP₁) and pressure loss (ΔP₂). :contentReference[oaicite:2]{index=2}  
+- Measured airflow velocity and pressure drop across a rod bank using pitot-static and differential pressure transducers.  
+- Reached **~27 m/s** mean airflow at full valve opening and confirmed a linear relationship between dynamic pressure (ΔP₁) and pressure loss (ΔP₂).
 - Related experimental results to cross-flow correlations and discussed implications for heat exchanger design.  
 - **Report:** [PDF](/engineering-portfolio/assets/img/Lab6%20Cross%20Flow%20Heat%20Exchanger%20(1).pdf)  
 
@@ -110,7 +110,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 **Tools:** H408 apparatus, pressure gauges, Excel  
 
 - Ran bend-loss tests on the TecQuipment H408 for multiple bend radii, measuring head loss across fittings. :contentReference[oaicite:3]{index=3}  
-- Calculated flow rate, Reynolds number, and loss coefficients *k* and *k<sub>L</sub>* and compared results to Moody/Blasius correlations. :contentReference[oaicite:4]{index=4}  
+- Calculated flow rate, Reynolds number, and loss coefficients *k* and *k<sub>L</sub>* and compared results to Moody/Blasius correlations.  
 - Discussed how friction and minor losses impact real piping systems and design of fluid networks.  
 
 ---
