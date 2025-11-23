@@ -19,6 +19,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 
 - **[📄 View Resume (PDF)](assets/img/MarcosEsparza_Resume.pdf)**
 
+
 ---
 
 ## Featured Project — IREC 2026: FAST 10k COTS Rocket  
