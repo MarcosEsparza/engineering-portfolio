@@ -100,7 +100,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 - Measured airflow velocity and pressure drop across a rod bank using pitot-static and differential pressure transducers.  
 - Reached **~27 m/s** mean airflow at full valve opening and confirmed a linear relationship between dynamic pressure (ΔP₁) and pressure loss (ΔP₂).
 - Related experimental results to cross-flow correlations and discussed implications for heat exchanger design.  
-- **Report:** [PDF](/engineering-portfolio/assets/img/Lab6CrossFlowHeatExchanger(1).pdf)  
+- **Report:** **Report:** [PDF](assets/img/Lab6_Cross_Flow_Heat_Exchanger.pdf)
 
 ---
 
