@@ -49,22 +49,21 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 - Max acceleration: **431 ft/s²**  
 - Stability margin: **2.76 cal**  
 
-<h3>Aluminum Fin Can</h3>
+<h3>Aluminum Fin Can - SOLIDWORKS</h3>
 
-<p><strong>Front view:</strong></p>
-<p align="center">
-  <img src="assets/img/AlFinCan3.PNG" alt="Aluminum fin can front view" width="450">
-</p>
+- **Material:** 6061-T6 aluminum fin can, bolted to fiberglass airframe  
+- **Design target:** ≥1.5× \(V_\text{max}\) flutter margin
 
-<p><strong>Side view:</strong></p>
-<p align="center">
-  <img src="assets/img/AlFinCan2.PNG" alt="Aluminum fin can side view" width="450">
-</p>
+**Views:** Front • Side • Isometric  
 
-<p><strong>Isometric view:</strong></p>
-<p align="center">
-  <img src="assets/img/AlFinCan.PNG" alt="Aluminum fin can isometric view" width="450">
-</p>
+Front view:  
+![Aluminum fin can front view](assets/img/AlFinCan3.PNG)
+
+Side view:  
+![Aluminum fin can side view](assets/img/AlFinCan2.PNG)
+
+Isometric view:  
+![Aluminum fin can isometric view](assets/img/AlFinCan.PNG)
 
 
 ---
