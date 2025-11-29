@@ -51,6 +51,19 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 
 ![IREC Rocket CAD](/engineering-portfolio/assets/img/IREC.PNG)
 
+## Aluminum Fin Can – FAST 10k COTS
+
+Front view:  
+![Aluminum fin can front view](docs/img/AlFinCan3.PNG)
+
+Side view:  
+![Aluminum fin can side view](docs/img/AlFinCan2.PNG)
+
+Isometric view:  
+![Aluminum fin can isometric view](docs/img/AlFinCan.PNG)
+
+
+
 ---
 
 ## Falcon Aeronautics & Space Team (FAST)
