@@ -52,7 +52,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 ### Aluminum Fin Can – SOLIDWORKS
 
 - **Material:** 6061-T6 aluminum fin can, bolted to fiberglass airframe  
-- **Design target:** ≥1.5× V flutter margin
+- **Design target:** ≥1.5× Vmax flutter margin
 
 **Views:** Planform • Side • Isometric  
 
