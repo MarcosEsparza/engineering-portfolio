@@ -49,18 +49,22 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 - Max acceleration: **431 ft/s²**  
 - Stability margin: **2.76 cal**  
 
-![IREC Rocket CAD](/engineering-portfolio/assets/img/IREC.PNG)
+<h3>Aluminum Fin Can</h3>
 
-### Aluminum Fin Can – FAST 10k COTS
+<p><strong>Front view:</strong></p>
+<p align="center">
+  <img src="assets/img/AlFinCan3.PNG" alt="Aluminum fin can front view" width="450">
+</p>
 
-Front view:  
-![Aluminum fin can front view](/engineering-portfolio/assets/img/AlFinCan3.PNG)
+<p><strong>Side view:</strong></p>
+<p align="center">
+  <img src="assets/img/AlFinCan2.PNG" alt="Aluminum fin can side view" width="450">
+</p>
 
-Side view:  
-![Aluminum fin can side view](/engineering-portfolio/assets/img/AlFinCan2.PNG)
-
-Isometric view:  
-![Aluminum fin can isometric view](/engineering-portfolio/assets/img/AlFinCan.PNG)
+<p><strong>Isometric view:</strong></p>
+<p align="center">
+  <img src="assets/img/AlFinCan.PNG" alt="Aluminum fin can isometric view" width="450">
+</p>
 
 
 ---
