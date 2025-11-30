@@ -49,6 +49,8 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 - Max acceleration: **431 ft/s²**  
 - Stability margin: **2.76 cal**  
 
+![FAST 10k COTS rocket with aluminum fin can](assets/img/IRECRocket.PNG)
+
 ### Aluminum Fin Can – SOLIDWORKS
 
 - **Material:** 6061-T6 aluminum fin can, bolted to fiberglass airframe  
