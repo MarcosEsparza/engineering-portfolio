@@ -71,7 +71,7 @@ Isometric view:
 
 ---
 
-## Falcon Aeronautics & Space Team (FAST)
+## Falcon Aeronautics & Space Team
 
 - FAST engages students at UTPB in aerospace and space-exploration projects through hands-on design, testing, and competition work.  
 - The team focuses on building practical experience in rocketry, avionics, and aerospace systems while growing aerospace opportunities in the Permian Basin.  
