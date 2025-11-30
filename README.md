@@ -22,7 +22,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 
 ---
 
-## Featured Project — IREC 2026: FAST 10k COTS Rocket  
+## Featured Project — IREC 2026 
 
 **Role:** Aerodynamic Design Lead  
 **Team:** Falcon Aeronautics & Space Team (FAST), UTPB  
