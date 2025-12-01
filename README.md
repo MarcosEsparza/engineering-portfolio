@@ -75,7 +75,7 @@ Isometric view:
 
 - FAST engages students at UTPB in aerospace and space-exploration projects through hands-on design, testing, and competition work.  
 - The team focuses on building practical experience in rocketry, avionics, and aerospace systems while growing aerospace opportunities in the Permian Basin.  
-- **FAST Instagram:** https://www.instagram.com/fast.utpb/  
+- **FAST Instagram:** [fast.utpb](https://www.instagram.com/fast.utpb/)  
 
 ---
 
