@@ -130,7 +130,7 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 <p align="center">
   <img src="/engineering-portfolio/assets/img/PowerVsSpeed.png" alt="Power vs Speed for Pelton turbine" width="450">
 </p>
-
+*Figure: Measured power vs. rotational speed for the Pelton turbine at 50% and 100% spear-valve openings, showing peak power at intermediate speeds.*
 
 ---
 
@@ -148,6 +148,7 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
        alt="Ideal vs actual velocity for different valve openings"
        width="450">
 </p>
+*Figure: Comparison of ideal vs. actual air velocity for multiple valve openings, with deviations under ~10% from theory.*
 
 ---
 
@@ -163,6 +164,7 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 <p align="center">
   <img src="/engineering-portfolio/assets/img/FrictionFactorAnalysis.png" alt="Friction factor vs Reynolds number compared to Blasius correlation" width="450">
 </p>
+*Figure: Experimental friction factor vs. Reynolds number for a smooth pipe, compared to the Blasius correlation, showing good agreement across the tested range.*
 
 ---
 
