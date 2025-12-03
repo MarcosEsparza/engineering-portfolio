@@ -153,10 +153,6 @@ Isometric view:
 
 ### Other Lab Reports
 
-- **Impact of a Jet**  
-  Investigated momentum transfer and force from a water jet striking different targets; related measured jet forces to theoretical predictions and energy balance.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/Lab1%20Impact%20of%20a%20Jet-1.pdf)
-
 - **Pelton Turbine**  
   Characterized Pelton turbine performance vs. load and spear-valve position, including torque–speed curves, power output, and hydraulic efficiency.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab2%20Pelton%20Turbine.pdf)
@@ -164,6 +160,10 @@ Isometric view:
 - **Fluid Friction Apparatus**  
   Measured head loss and friction factors in smooth/rough pipes and fittings, compared experimental results to Blasius and Moody correlations, and evaluated valve and flow-meter losses.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab3%20Friction%20Fluid.pdf)
+
+- **Flow Measuring Devices**  
+  Compared multiple flow-measurement devices (e.g., orifice plate, Venturi meter, rotameter), evaluated discharge coefficients and uncertainties, and related head loss to measurement accuracy.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab5%20Flow%20Measuring%20Devices.pdf)
 
 - **Cooling Rate / Transient Convection**  
   Used the TE93 cross-flow heat exchanger to measure transient cooling of a heated copper rod, extract convective heat-transfer coefficients, and compare ideal vs. experimental correlations.  
@@ -173,13 +173,17 @@ Isometric view:
   Mapped velocity profile downstream of a rod bank using a pitot tube, showing wake regions, recirculation, and high-velocity gaps between rods.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab8-Velocity%20Profile.pdf)
 
-- **Impact: Charpy & Izod**  
-  Performed Charpy and Izod impact tests on multiple 3D-printed polymers, including friction-loss corrections for the pendulum, to compare absorbed energy and fracture behavior.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/Lab9-Impact-Charpy%20and%20Izod.pdf)
+- **Impact of a Jet**  
+  Investigated momentum transfer and force from a water jet striking different targets; related measured jet forces to theoretical predictions and energy balance.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab1%20Impact%20of%20a%20Jet-1.pdf)
 
 - **Torsion Test**  
   Performed torsion testing on circular shafts to obtain shear modulus, study elastic vs. plastic behavior, and compare experimental torque–angle curves to theory.  
   **Report:** [PDF](/engineering-portfolio/assets/img/lab10-%20Torsion%20Lab%20Report.pdf)
+
+- **Impact: Charpy & Izod**  
+  Performed Charpy and Izod impact tests on multiple 3D-printed polymers, including friction-loss corrections for the pendulum, to compare absorbed energy and fracture behavior.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab9-Impact-Charpy%20and%20Izod.pdf)
 
 ---
 
