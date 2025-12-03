@@ -13,7 +13,7 @@ I’m a Mechanical Engineering student at the University of Texas Permian Basin 
 
 On the rocket side, I work on fin geometry, flutter and stability analysis, and airframe modeling using SOLIDWORKS, MATLAB, and OpenRocket. That’s given me a lot of experience thinking about loads, safety margins, and how hardware is actually built and assembled, not just simulated.
 
-In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction and bend losses, flow-measurement devices, transient cooling, and velocity profiles. These projects gave me hands-on experience with piping, pressure drop, heat transfer, and DAQ/LabVIEW-style measurement systems — the same fundamentals used in real energy and pipeline systems.
+In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction and bend losses, flow-measurement devices, transient cooling, and velocity profiles. These projects gave me hands-on experience with piping, pressure drop, heat transfer, and DAQ/LabVIEW-style measurement systems, the same fundamentals used in real energy and pipeline systems.
 
 I grew up in the Permian Basin, so I’m especially interested in roles where I can apply this mix of design, testing, and field-style work to energy and infrastructure projects.
 
