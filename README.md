@@ -1,5 +1,5 @@
 # Marcos Esparza – Engineering Portfolio  
-Mechanical Engineering • Propulsion & Thermo-Fluids • High-Power Rocketry
+Mechanical Engineering • Energy & Thermo-Fluids • High-Power Rocketry
 
 [About](#about-me) • [Resume](#resume) • [Featured Project](#featured-project--irec-2026-fast-10k-cots-rocket) • [Projects](#projects) • [Skills](#skills) • [Contact](#contact)
 
@@ -7,11 +7,15 @@ Mechanical Engineering • Propulsion & Thermo-Fluids • High-Power Rocketry
 
 ## About Me
 
-I’m a Mechanical Engineering student at the University of Texas Permian Basin focused on propulsion, thermo-fluids, and experimental testing. I’m part of the Falcon Aeronautics & Space Team (FAST), where I lead aerodynamic design and fin-can development for our 10,000-ft COTS rocket competing at the Intercollegiate Rocket Engineering Competition (IREC).
+## About Me
 
-On the rocket side, I work on fin geometry, flutter and stability analysis, and airframe modeling using SOLIDWORKS, MATLAB, and OpenRocket. I’ve also earned my Level 1 high-power rocketry certification and am building a dual-deploy Level 2 rocket, which has given me experience with manufacturability, recovery system integration, and safe operations from build to launch.
+I’m a Mechanical Engineering student at the University of Texas Permian Basin focused on energy, thermo-fluids, and experimental testing. I’m part of the Falcon Aeronautics & Space Team (FAST), where I lead aerodynamic design and fin-can development for our 10,000-ft COTS rocket competing at the Intercollegiate Rocket Engineering Competition (IREC).
 
-In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction and bend losses, flow-measurement devices, transient cooling, and velocity profiles. These projects gave me hands-on experience setting up experiments, using DAQ/LabVIEW-style measurement systems, and turning raw data into conclusions in thermo-fluids and mechanics.
+On the rocket side, I work on fin geometry, flutter and stability analysis, and airframe modeling using SOLIDWORKS, MATLAB, and OpenRocket. That’s given me a lot of experience thinking about loads, safety margins, and how hardware is actually built and assembled, not just simulated.
+
+In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction and bend losses, flow-measurement devices, transient cooling, and velocity profiles. These projects gave me hands-on experience with piping, pressure drop, heat transfer, and DAQ/LabVIEW-style measurement systems — the same fundamentals used in real energy and pipeline systems.
+
+I grew up in the Permian Basin, so I’m especially interested in roles where I can apply this mix of design, testing, and field-style work to energy and infrastructure projects.
 
 ---
 
@@ -31,7 +35,9 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 ### Overview
 
 - Leading aerodynamic design and fin-can development for FAST’s 10,000-ft COTS rocket for IREC.  
-- Designing a modular fin-can and airframe to safely reach ~10,000 ft on an L-class motor while maintaining ≥1.5× flutter margin and competition-typical stability, with a focus on fin geometry, flutter and stability analysis, and recovery/avionics integration.
+- Designing a modular fin-can and airframe to safely reach ~10,000 ft on an L-class motor while maintaining ≥1.5× flutter margin and competition-typical stability, with a focus on fin geometry, flutter and stability analysis, and recovery/avionics integration.  
+- Treating the project like a small field system: tracking loads, margins, and interfaces in CAD and documentation so the hardware is safe, repeatable, and easy for the team to build.
+
 
 ### Technical Scope
 
@@ -130,7 +136,8 @@ Isometric view:
 
 - Ran bend-loss tests on the TecQuipment H408 for multiple bend radii, measuring head loss across fittings.
 - Calculated flow rate, Reynolds number, and loss coefficients *k* and *k<sub>L</sub>* and compared results to Moody/Blasius correlations.  
-- Discussed how friction and minor losses impact real piping systems and design of fluid networks.  
+- Discussed how friction and minor losses impact real piping systems and design of fluid networks.
+- Connected these results to real piping networks in energy and industrial plants, where friction and minor losses impact pump sizing, operating cost, and reliability.
 - **Report:** [PDF](/engineering-portfolio/assets/img/Lab%204%20Bend%20Loss.pdf)
 
 ---
@@ -158,13 +165,13 @@ Isometric view:
 
 **Engineering & Domain**
 
-- High-Power Rocketry  
-- Aerodynamic Design & Stability  
-- Fin Flutter Analysis  
-- Thermodynamics & Fluid Mechanics  
+- Thermo-Fluids & Energy Systems  
+- Piping, Pressure Losses & Head Loss  
 - Heat Transfer (cross-flow, transient)  
-- Experimental Methods & Data Analysis  
+- Experimental Methods, DAQ & Data Analysis  
 - Mechanical / Structural Design & CAD  
+- High-Power Rocketry, Aerodynamic Design & Stability  
+- Fin Flutter & Structural Safety Margins  
 - Recovery Systems (dual-deploy, parachute sizing & rigging)  
 
 **Certifications**
