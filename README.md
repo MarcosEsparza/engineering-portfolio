@@ -127,6 +127,9 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 - Connected experimental results to turbomachinery performance and energy-system applications.  
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab2%20Pelton%20Turbine.pdf)
 
+![Power vs Speed for Pelton turbine at 50% and 100% spear-valve opening](/engineering-portfolio/assets/img/PowerVsSpeed.png)
+
+
 ---
 
 #### Cross-Flow Heat Exchanger – TE93
