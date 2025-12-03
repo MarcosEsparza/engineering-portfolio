@@ -128,6 +128,9 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab2%20Pelton%20Turbine.pdf)
 
 ![Power vs Speed for Pelton turbine at 50% and 100% spear-valve opening](/engineering-portfolio/assets/img/PowerVsSpeed.png)
+<p align="center">
+  <img src="/engineering-portfolio/assets/img/PowerVsSpeed.png" alt="Power vs Speed for Pelton turbine" width="450">
+</p>
 
 
 ---
