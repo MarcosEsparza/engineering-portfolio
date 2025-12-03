@@ -144,7 +144,7 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab6%20Cross%20Flow%20Heat%20Exchanger%20(1).pdf)
 
 <p align="center">
-  <img src="/engineering-portfolio/assets/img/IdealVsActual.png" alt="Ideal vs actual air velocity for different valve openings in the cross-flow heat exchanger" width="350">
+  <img src="/engineering-portfolio/assets/img/IdealVsActual.PNG" alt="Ideal vs actual air velocity for different valve openings in the cross-flow heat exchanger" width="350">
 </p>
 
 ---
