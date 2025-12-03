@@ -196,12 +196,12 @@ Isometric view:
 **Engineering & Domain**
 
 - Thermo-Fluids & Energy Systems  
-- Heat Transfer (cross-flow, transient) 
+- Heat Transfer (cross-flow, transient)  
 - Piping, Pressure Losses & Head Loss  
 - Mechanical / Structural Design & CAD  
-- Experimental Methods, DAQ & Data Analysis
+- Experimental Methods, DAQ & Data Analysis  
 - High-Power Rocketry, Aerodynamic Design & Stability  
-- Recovery Systems (dual-deploy, parachute sizing & rigging)  
+- Recovery Systems (dual-deploy, parachute sizing & rigging)
 
 **Certifications**
 
