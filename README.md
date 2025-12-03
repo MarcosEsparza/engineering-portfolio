@@ -146,7 +146,7 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 <p align="center">
   <img src="/engineering-portfolio/assets/img/IdealVsActual.PNG"
        alt="Ideal vs actual velocity for different valve openings"
-       width="500">
+       width="450">
 </p>
 
 ---
