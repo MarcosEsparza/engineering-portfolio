@@ -153,33 +153,33 @@ Isometric view:
 
 ### Other Lab Reports
 
-- **Impact of a Jet**  
-  Investigated momentum transfer and force from a water jet striking different targets; related measured jet forces to theoretical predictions and energy balance.
-**Report:** [PDF](/engineering-portfolio/assets/img/Lab1%20Impact%20of%20a%20Jet-1.pdf)
+- **Impact of a Jet (MENG 4205)**  
+  Investigated momentum transfer and force from a water jet striking different targets; related measured jet forces to theoretical predictions and energy balance.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab1%20Impact%20of%20a%20Jet-1.pdf)
 
-- **Pelton Turbine**  
-  Characterized Pelton turbine performance vs. load and spear-valve position, including torque–speed curves, power output, and hydraulic efficiency.
-**Report:** [PDF](/engineering-portfolio/assets/img/Lab2%20Pelton%20Turbine.pdf)
+- **Pelton Turbine (MENG 4205)**  
+  Characterized Pelton turbine performance vs. load and spear-valve position, including torque–speed curves, power output, and hydraulic efficiency.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab2%20Pelton%20Turbine.pdf)
 
-- **Fluid Friction Apparatus**  
-  Measured head loss and friction factors in smooth/rough pipes and fittings, compared experimental results to Blasius and Moody correlations, and evaluated valve and flow-meter losses.
-**Report:** [PDF](/engineering-portfolio/assets/img/Lab3%20Friction%20Fluid.pdf)
+- **Fluid Friction Apparatus (MENG 4205)**  
+  Measured head loss and friction factors in smooth/rough pipes and fittings, compared experimental results to Blasius and Moody correlations, and evaluated valve and flow-meter losses.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab3%20Friction%20Fluid.pdf)
 
-- **Cooling Rate / Transient Convection**  
-  Used the TE93 cross-flow heat exchanger to measure transient cooling of a heated copper rod, extract convective heat-transfer coefficients, and compare ideal vs. experimental correlations.
-**Report:** [PDF](/engineering-portfolio/assets/img/Lab7%20Cooling%20Rate.pdf)
+- **Cooling Rate / Transient Convection (MENG 4205)**  
+  Used the TE93 cross-flow heat exchanger to measure transient cooling of a heated copper rod, extract convective heat-transfer coefficients, and compare ideal vs. experimental correlations.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab7%20Cooling%20Rate.pdf)
 
-- **Velocity Profile in Cross-Flow**  
-  Mapped velocity profile downstream of a rod bank using a pitot tube, showing wake regions, recirculation, and high-velocity gaps between rods.
-**Report:** [PDF](/engineering-portfolio/assets/img/Lab8-Velocity%20Profile.pdf)
+- **Velocity Profile in Cross-Flow (MENG 4205)**  
+  Mapped velocity profile downstream of a rod bank using a pitot tube, showing wake regions, recirculation, and high-velocity gaps between rods.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab8-Velocity%20Profile.pdf)
 
-- **Impact: Charpy & Izod**  
-  Performed Charpy and Izod impact tests on multiple 3D-printed polymers, including friction-loss corrections for the pendulum, to compare absorbed energy and fracture behavior.
-**Report:** [PDF](/engineering-portfolio/assets/img/Lab9-Impact-Charpy%20and%20Izod.pdf)
+- **Impact: Charpy & Izod (MENG 4205)**  
+  Performed Charpy and Izod impact tests on multiple 3D-printed polymers, including friction-loss corrections for the pendulum, to compare absorbed energy and fracture behavior.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab9-Impact-Charpy%20and%20Izod.pdf)
 
-- **Torsion Test**  
-  Performed torsion testing on circular shafts to obtain shear modulus, study elastic vs. plastic behavior, and compare experimental torque–angle curves to theory.
-**Report:** [PDF](/engineering-portfolio/assets/img/lab10-%20Torsion%20Lab%20Report.pdf)
+- **Torsion Test (MENG 4205)**  
+  Performed torsion testing on circular shafts to obtain shear modulus, study elastic vs. plastic behavior, and compare experimental torque–angle curves to theory.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/lab10-%20Torsion%20Lab%20Report.pdf)
 
 ---
 
