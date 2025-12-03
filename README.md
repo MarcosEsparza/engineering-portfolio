@@ -127,7 +127,6 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 - Connected experimental results to turbomachinery performance and energy-system applications.  
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab2%20Pelton%20Turbine.pdf)
 
-![Power vs Speed for Pelton turbine at 50% and 100% spear-valve opening](/engineering-portfolio/assets/img/PowerVsSpeed.png)
 <p align="center">
   <img src="/engineering-portfolio/assets/img/PowerVsSpeed.png" alt="Power vs Speed for Pelton turbine" width="450">
 </p>
@@ -143,6 +142,9 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 - Used correlations to evaluate heat-transfer behavior and compared experimental vs. theoretical trends.  
 - Demonstrated understanding of convective heat transfer, pressure loss, and airflow behavior.  
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab6%20Cross%20Flow%20Heat%20Exchanger%20(1).pdf)
+
+![Ideal vs actual air velocity for different valve openings in the cross-flow heat exchanger](/engineering-portfolio/assets/img/IdealVsActual.png)
+
 
 ---
 
