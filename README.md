@@ -151,6 +151,38 @@ Isometric view:
 
 ---
 
+### Other Lab Reports
+
+- **Lab 1 – Impact of a Jet (MENG 4205)**  
+  Investigated momentum transfer and force from a water jet striking different targets; related measured jet forces to theoretical predictions and energy balance.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab1%20Impact%20of%20a%20Jet-1.pdf)
+
+- **Lab 2 – Pelton Turbine (MENG 4205)**  
+  Characterized Pelton turbine performance vs. load and spear-valve position, including torque–speed curves, power output, and hydraulic efficiency.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab2%20Pelton%20Turbine.pdf)
+
+- **Lab 3 – Fluid Friction Apparatus (MENG 4205)**  
+  Measured head loss and friction factors in smooth/rough pipes and fittings, compared experimental results to Blasius and Moody correlations, and evaluated valve and flow-meter losses.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab3%20Friction%20Fluid.pdf)
+
+- **Lab 7 – Cooling Rate / Transient Convection (MENG 4205)**  
+  Used the TE93 cross-flow heat exchanger to measure transient cooling of a heated copper rod, extract convective heat-transfer coefficients, and compare ideal vs. experimental correlations. :contentReference[oaicite:0]{index=0}  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab7%20Cooling%20Rate.pdf)
+
+- **Lab 8 – Velocity Profile in Cross-Flow (MENG 4205)**  
+  Mapped velocity profile downstream of a rod bank using a pitot tube, showing wake regions, recirculation, and high-velocity gaps between rods. :contentReference[oaicite:1]{index=1}  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab8-Velocity%20Profile.pdf)
+
+- **Lab 9 – Impact: Charpy & Izod (MENG 4205)**  
+  Performed Charpy and Izod impact tests on multiple 3D-printed polymers, including friction-loss corrections for the pendulum, to compare absorbed energy and fracture behavior. :contentReference[oaicite:2]{index=2}  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab9-Impact-Charpy%20and%20Izod.pdf)
+
+- **Lab 10 – Torsion Test (MENG 4205)**  
+  (Short one-liner once you upload: e.g., “Torsion testing of circular shafts to obtain shear modulus, yield behavior, and compare to theory.”)  
+  **Report:** [PDF](/engineering-portfolio/assets/img/lab10-%20Torsion%20Lab%20Report.pdf)
+
+---
+
 ## Skills
 
 **Software**
