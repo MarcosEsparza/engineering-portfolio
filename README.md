@@ -31,15 +31,15 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 ### Overview
 
 - Leading aerodynamic design and fin-can development for FAST’s 10,000-ft COTS rocket for IREC.  
-- Designing a modular fin-can and airframe to safely reach ~10,000 ft on an L-class motor while maintaining ≥1.5× flutter margin and competition-typical stability, with a focus on fin geometry, flutter and stability analysis, and recovery/avionics integration.  
-- Treating the project like a small field system: tracking loads, margins, and interfaces in CAD and documentation so the hardware is safe, repeatable, and easy for the team to build.
+- Designing a modular fin-can and airframe to safely reach ~10,000 ft on an L-class motor while maintaining ≥1.5× flutter margin and competition-typical stability ranges, with a focus on fin geometry, flutter and stability analysis, and recovery/avionics integration.  
+- Treating the project like a small field system: tracking loads, margins, and interfaces in CAD and documentation so the hardware is safe, repeatable, and easier for the team to build and integrate.
 
 
 ### Technical Scope
 
 - Designed fins and performed flutter and static-stability analysis in MATLAB and OpenRocket.  
 - Modeled a 4.02-in modular airframe and aluminum fin-can in SOLIDWORKS, including internal structure.  
-- Verified ≥ 1.5× Vₘₐₓ flutter margin and maintained stability margin within competition-typical ranges.  
+- Verified ≥ 1.5× V_max flutter margin and maintained stability margin within competition-typical ranges.  
 - Integrated internal structure, recovery, and avionics into a single CAD model to align mass properties and interfaces.  
 - Set up a documentation workflow for the IREC 2026 technical report and team GitHub repository.  
 - **MATLAB Code:** [Fin Flutter Solver](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team/blob/main/simulations/matlab/fin_flutter/AluminumFinCan.m)  
@@ -50,12 +50,13 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 - Max velocity: **1,191 ft/s (Mach 1.077)**  
 - Max acceleration: **431 ft/s²**  
 - Stability margin: **2.76 cal**  
+- Simulation tool: OpenRocket (custom MATLAB post-processing)
 
 ![FAST 10k COTS rocket with aluminum fin can](assets/img/IRECRocket.PNG)
 
 ### Aluminum Fin Can – SOLIDWORKS
 
-- **Material:** 6061-T6 aluminum fin can, bolted to fiberglass airframe  
+- **Material:** CNC/lathe-machined 6061-T6 aluminum fin can, bolted to a 4" fiberglass airframe  
 - **Design target:** ≥1.5× Vmax flutter margin
 
 **Views:** Planform • Side • Isometric  
@@ -87,6 +88,7 @@ Isometric view:
 
 **Role:** Designer & Builder  
 **Tools:** OpenRocket, hand calculations, shop tools  
+**Launch Site:** San Angelo, TX
 
 - Designed, built, and flew an L1 certification rocket.  
 - Achieved altitude: **2,148 ft** (≈2.4% error vs prediction), validating simulation and modeling methods.  
@@ -153,21 +155,20 @@ Isometric view:
 
 **Software**
 
+- SOLIDWORKS 
 - MATLAB  
-- SOLIDWORKS  
 - OpenRocket  
 - LabVIEW / DAQ systems  
-- Microsoft Excel (engineering/data analysis)  
+- Excel (engineering/data analysis)  
 
 **Engineering & Domain**
 
 - Thermo-Fluids & Energy Systems  
+- Heat Transfer (cross-flow, transient) 
 - Piping, Pressure Losses & Head Loss  
-- Heat Transfer (cross-flow, transient)  
-- Experimental Methods, DAQ & Data Analysis  
 - Mechanical / Structural Design & CAD  
+- Experimental Methods, DAQ & Data Analysis
 - High-Power Rocketry, Aerodynamic Design & Stability  
-- Fin Flutter & Structural Safety Margins  
 - Recovery Systems (dual-deploy, parachute sizing & rigging)  
 
 **Certifications**
@@ -188,6 +189,6 @@ Isometric view:
 ## Contact
 
 - **Email:** esparza_m58311@utpb.edu  
-- **LinkedIn:** https://www.linkedin.com/in/marcos-v-esparza/  
+- **LinkedIn:** [https://www.linkedin.com/in/marcos-v-esparza/  ](https://www.linkedin.com/in/marcos-v-esparza/)
 
 [Back to Top](#marcos-esparza--engineering-portfolio)
