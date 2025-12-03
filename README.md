@@ -148,7 +148,7 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
        alt="Ideal vs actual velocity for different valve openings"
        width="450">
 </p>
-*Figure: Comparison of ideal vs. actual air velocity for multiple valve openings, with deviations under ~10% from theory.*
+*Figure: Comparison of ideal vs. actual air velocity for multiple valve openings, with deviations within about 10% of theory.*
 
 ---
 
