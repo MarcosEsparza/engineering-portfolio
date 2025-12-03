@@ -143,8 +143,9 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 - Demonstrated understanding of convective heat transfer, pressure loss, and airflow behavior.  
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab6%20Cross%20Flow%20Heat%20Exchanger%20(1).pdf)
 
-![Ideal vs actual air velocity for different valve openings in the cross-flow heat exchanger](/engineering-portfolio/assets/img/IdealVsActual.png)
-
+<p align="center">
+  <img src="/engineering-portfolio/assets/img/IdealVsActual.png" alt="Ideal vs actual air velocity for different valve openings in the cross-flow heat exchanger" width="350">
+</p>
 
 ---
 
@@ -157,6 +158,9 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 - Related findings to real piping networks, pump sizing, and industrial fluid systems.  
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab3%20Friction%20Fluid.pdf)
 
+<p align="center">
+  <img src="/engineering-portfolio/assets/img/FrictionFactorAnalysis.png" alt="Friction factor vs Reynolds number compared to Blasius correlation" width="450">
+</p>
 
 ---
 
