@@ -115,28 +115,40 @@ Isometric view:
 
 ---
 
-### Cross-Flow Heat Exchanger – TecQuipment TE93
+### Featured Lab Reports
+A selection of lab work most relevant to thermo-fluids, energy systems, and experimental testing.
 
+#### Pelton Turbine – Performance & Efficiency
 **Role:** Lab Team Member  
-**Tools:** TE93 apparatus, pitot tube, DAQ, Excel  
+**Tools:** Pelton turbine rig, load cell, tachometer, Excel  
 
-- Measured airflow velocity and pressure drop across a rod bank using pitot-static and differential pressure transducers.  
-- Reached **~27 m/s** mean airflow at full valve opening and confirmed a linear relationship between dynamic pressure (ΔP₁) and pressure loss (ΔP₂).
-- Related experimental results to cross-flow correlations and discussed implications for heat exchanger design.  
-- **Report:** [PDF](/engineering-portfolio/assets/img/Lab6%20Cross%20Flow%20Heat%20Exchanger%20(1).pdf)
+- Characterized Pelton turbine performance under varying loads and spear-valve positions.  
+- Generated torque–speed curves, calculated hydraulic power, and evaluated overall turbine efficiency.  
+- Connected experimental results to turbomachinery performance and energy-system applications.  
+**Report:** [PDF](/engineering-portfolio/assets/img/Lab2%20Pelton%20Turbine.pdf)
 
 ---
 
-### Fluid Friction & Bend Loss – TecQuipment H408
+#### Cross-Flow Heat Exchanger – TE93
+**Role:** Lab Team Member  
+**Tools:** TE93 cross-flow rig, pitot-static tube, DAQ, Excel  
 
+- Measured velocity, pressure drop, and dynamic pressure across a cross-flow rod bank.  
+- Used correlations to evaluate heat-transfer behavior and compared experimental vs. theoretical trends.  
+- Demonstrated understanding of convective heat transfer, pressure loss, and airflow behavior.  
+**Report:** [PDF](/engineering-portfolio/assets/img/Lab6%20Cross%20Flow%20Heat%20Exchanger%20(1).pdf)
+
+---
+
+#### Fluid Friction & Bend Loss – H408
 **Role:** Lab Team Member  
 **Tools:** H408 apparatus, pressure gauges, Excel  
 
-- Ran bend-loss tests on the TecQuipment H408 for multiple bend radii, measuring head loss across fittings.
-- Calculated flow rate, Reynolds number, and loss coefficients *k* and *k<sub>L</sub>* and compared results to Moody/Blasius correlations.  
-- Discussed how friction and minor losses impact real piping systems and design of fluid networks.
-- Connected these results to real piping networks in energy and industrial plants, where friction and minor losses impact pump sizing, operating cost, and reliability.
-- **Report:** [PDF](/engineering-portfolio/assets/img/Lab%204%20Bend%20Loss.pdf)
+- Analyzed friction factors for smooth/rough pipes and multiple fittings.  
+- Calculated Reynolds number, head loss, and minor loss coefficients (*k*, *kₗ*) and compared them to Moody/Blasius correlations.  
+- Related findings to real piping networks, pump sizing, and industrial fluid systems.  
+**Report:** [PDF](/engineering-portfolio/assets/img/Lab3%20Friction%20Fluid.pdf)
+
 
 ---
 
@@ -153,37 +165,29 @@ Isometric view:
 
 ### Other Lab Reports
 
-- **Pelton Turbine**  
-  Characterized Pelton turbine performance vs. load and spear-valve position, including torque–speed curves, power output, and hydraulic efficiency.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/Lab2%20Pelton%20Turbine.pdf)
-
-- **Fluid Friction Apparatus**  
-  Measured head loss and friction factors in smooth/rough pipes and fittings, compared experimental results to Blasius and Moody correlations, and evaluated valve and flow-meter losses.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/Lab3%20Friction%20Fluid.pdf)
-
 - **Flow Measuring Devices**  
-  Compared multiple flow-measurement devices (e.g., orifice plate, Venturi meter, rotameter), evaluated discharge coefficients and uncertainties, and related head loss to measurement accuracy.  
+  Compared orifice plates, Venturi meters, and rotameters; evaluated discharge coefficients and measurement uncertainties.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab5%20Flow%20Measuring%20Devices.pdf)
 
 - **Cooling Rate / Transient Convection**  
-  Used the TE93 cross-flow heat exchanger to measure transient cooling of a heated copper rod, extract convective heat-transfer coefficients, and compare ideal vs. experimental correlations.  
+  Used the TE93 cross-flow heat exchanger to measure transient cooling of a heated copper rod and estimate convective heat-transfer coefficients.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab7%20Cooling%20Rate.pdf)
 
 - **Velocity Profile in Cross-Flow**  
-  Mapped velocity profile downstream of a rod bank using a pitot tube, showing wake regions, recirculation, and high-velocity gaps between rods.  
+  Mapped velocity profile downstream of a rod bank using a pitot tube, showing wake behavior and recirculation regions.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab8-Velocity%20Profile.pdf)
 
 - **Impact of a Jet**  
-  Investigated momentum transfer and force from a water jet striking different targets; related measured jet forces to theoretical predictions and energy balance.  
+  Investigated momentum transfer and force from a water jet striking targets; compared measured forces to theoretical predictions.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab1%20Impact%20of%20a%20Jet-1.pdf)
 
-- **Torsion Test**  
-  Performed torsion testing on circular shafts to obtain shear modulus, study elastic vs. plastic behavior, and compare experimental torque–angle curves to theory.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/lab10-%20Torsion%20Lab%20Report.pdf)
-
 - **Impact: Charpy & Izod**  
-  Performed Charpy and Izod impact tests on multiple 3D-printed polymers, including friction-loss corrections for the pendulum, to compare absorbed energy and fracture behavior.  
+  Performed impact testing on multiple 3D-printed polymers to compare absorbed energy and fracture behavior.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab9-Impact-Charpy%20and%20Izod.pdf)
+
+- **Torsion Test**  
+  Obtained shear modulus and torque–angle behavior of circular shafts; compared elastic and plastic response to theoretical values.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/lab10-%20Torsion%20Lab%20Report.pdf)
 
 ---
 
