@@ -142,7 +142,7 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 - Computed density, velocity, and Mach number at the compressor inlet (station 1) and nozzle exit (station 5), confirming a high-speed but subsonic exhaust jet.  
 - Estimated inlet and nozzle mass flow rates and checked approximate conservation of mass across the engine.  
 - Built a 1-D control-volume momentum model to predict static thrust and compared it to load-cell thrust measurements (prediction within ~15% of measured thrust).  
-- Discussed discrepancies in terms of probe placement, non-uniform exhaust flow, and real losses vs. the ideal Brayton-cycle assumptions.  
+- Discussed discrepancies in terms of probe placement, non-uniform exhaust flow, and real losses vs. the ideal Brayton-cycle assumptions.
 **Report:** [PDF](/engineering-portfolio/assets/img/Performance%20Analysis%20of%20a%20Turbojet%20Engine.pdf)
 
 <p align="center">
@@ -151,7 +151,6 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
        width="450">
 </p>
 *Figure: SR-30 turbojet engine installed in the Mini-Lab test stand with enclosed test cell, control gauges, and throttle lever.*
-
 
 ---
 
