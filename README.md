@@ -57,9 +57,10 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 ### Aluminum Fin Can – SOLIDWORKS
 
 - **Material:** CNC/lathe-machined 6061-T6 aluminum fin can, bolted to a 4" fiberglass airframe  
-- **Design target:** ≥1.5× V_max flutter margin
+- **Design target:** ≥1.5× V_max flutter margin  
+- **Status:** Draft CAD model – final geometry (including fillets between the fin tabs and body-tube section) will be refined before machining.
 
-**Views:** Planform • Side • Isometric  
+**Views (current CAD draft):** Planform • Side • Isometric  
 
 Planform view:  
 ![Aluminum fin can planform view](assets/img/AlFinCan3.PNG)
@@ -69,8 +70,6 @@ Side view:
 
 Isometric view:  
 ![Aluminum fin can isometric view](assets/img/AlFinCan.PNG)
-
-
 
 ---
 
@@ -141,8 +140,9 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 - Processed SR-30 turbojet Mini-Lab data at a representative high-power condition using LabVIEW and Excel.  
 - Computed density, velocity, and Mach number at the compressor inlet (station 1) and nozzle exit (station 5), confirming a high-speed but subsonic exhaust jet.  
 - Estimated inlet and nozzle mass flow rates and checked approximate conservation of mass across the engine.  
-- Built a 1-D control-volume momentum model to predict static thrust and compared it to load-cell thrust measurements (prediction within ~15% of measured thrust).  
-- Discussed discrepancies in terms of probe placement, non-uniform exhaust flow, and real losses vs. the ideal Brayton-cycle assumptions.
+- Built a 1-D control-volume momentum model to predict static thrust and compared it to load-cell thrust measurements (prediction ≈9.5 lbf vs. ≈11 lbf measured, about 14% low).  
+- Discussed discrepancies in terms of probe placement, non-uniform exhaust flow, and real losses vs. the ideal Brayton-cycle assumptions.  
+
 **Report:** [PDF](/engineering-portfolio/assets/img/Performance%20Analysis%20of%20a%20Turbojet%20Engine.pdf)
 
 <p align="center">
