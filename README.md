@@ -182,7 +182,7 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab7%20Cooling%20Rate.pdf)
 
 <p align="center">
-  <img src="/engineering-portfolio/assets/img/CoolingCurve_SingleRod.png"
+  <img src="/engineering-portfolio/assets/img/CoolingCurve_SingleRod1.PNG"
        alt="Cooling curves for heated rod at different airflow settings"
        width="450">
 </p>
