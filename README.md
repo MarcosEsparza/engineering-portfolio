@@ -60,7 +60,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 - **Design target:** ≥1.5× V_max flutter margin  
 - **Status:** Preliminary CAD model for the IREC 2026 fin-can design.
 
-**Views (current CAD draft):** Planform • Side • Isometric  
+**Views:** Planform • Side • Isometric  
 
 Planform view:  
 ![Aluminum fin can planform view](assets/img/AlFinCan3.PNG)
@@ -169,6 +169,17 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
        width="450">
 </p>
 *Figure: Comparison of ideal vs. actual air velocity for multiple valve openings, with deviations within about 10% of theory.*
+
+---
+
+#### Cooling Rate / Transient Convection
+**Role:** Lab Team Member  
+**Tools:** TE93 cross-flow heat exchanger, thermocouples, DAQ, Excel  
+
+- Used the TE93 cross-flow heat exchanger to measure transient cooling of a heated copper rod.  
+- Applied lumped-capacitance methods to estimate convective heat-transfer coefficients from temperature–time data.  
+- Compared experimental h-values to textbook correlations and discussed sources of error and deviation.  
+**Report:** [PDF](/engineering-portfolio/assets/img/Lab7%20Cooling%20Rate.pdf)
 
 ---
 
