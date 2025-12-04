@@ -143,7 +143,15 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 - Estimated mass flow rate at the inlet and nozzle and checked approximate conservation of mass across the engine.  
 - Built a 1-D control-volume momentum model to predict static thrust from the exhaust conditions and compared it to load-cell measurements (model underpredicted by ~14%).  
 - Explained discrepancies in terms of probe placement, non-uniform exhaust flow, and neglected losses, and related results back to the ideal Brayton cycle vs. real engine behavior.  
+
 **Report:** [PDF](/engineering-portfolio/assets/img/Performance%20Analysis%20of%20a%20Turbojet%20Engine.pdf)
+
+<p align="center">
+  <img src="/engineering-portfolio/assets/img/Gas%20Turbine.jpeg"
+       alt="SR-30 turbojet engine mounted in Mini-Lab test stand"
+       width="450">
+</p>
+*Figure: SR-30 turbojet engine installed in the Mini-Lab test stand with enclosed test cell, control gauges, and throttle lever.*
 
 ---
 
