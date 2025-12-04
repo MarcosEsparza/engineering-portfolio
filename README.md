@@ -181,6 +181,13 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 - Compared experimental h-values to textbook correlations and discussed sources of error and deviation.  
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab7%20Cooling%20Rate.pdf)
 
+<p align="center">
+  <img src="/engineering-portfolio/assets/img/CoolingCurve_SingleRod.png"
+       alt="Cooling curves for heated rod at different airflow settings"
+       width="450">
+</p>
+*Figure: Cooling curves for a single heated rod at 20–80% airflow; steeper slopes at higher airflow indicate larger convective heat-transfer coefficients.*
+
 ---
 
 #### Fluid Friction & Bend Loss – H408
