@@ -212,10 +212,6 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
   Compared orifice plates, Venturi meters, and rotameters; evaluated discharge coefficients and measurement uncertainties.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab5%20Flow%20Measuring%20Devices.pdf)
 
-- **Cooling Rate / Transient Convection**  
-  Used the TE93 cross-flow heat exchanger to measure transient cooling of a heated copper rod and estimate convective heat-transfer coefficients.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/Lab7%20Cooling%20Rate.pdf)
-
 - **Velocity Profile in Cross-Flow**  
   Mapped velocity profile downstream of a rod bank using a pitot tube, showing wake behavior and recirculation regions.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab8-Velocity%20Profile.pdf)
@@ -226,7 +222,7 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 
 - **Impact: Charpy & Izod**  
   Performed impact testing on multiple 3D-printed polymers to compare absorbed energy and fracture behavior.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/Lab9-Impact-Charpy%20and%20Izod.pdf)
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab9-Impact%20Charpy%20and%20Izod.pdf)
 
 - **Torsion Test**  
   Obtained shear modulus and torque–angle behavior of circular shafts; compared elastic and plastic response to theoretical values.  
