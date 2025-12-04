@@ -212,6 +212,10 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
   Compared orifice plates, Venturi meters, and rotameters; evaluated discharge coefficients and measurement uncertainties.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab5%20Flow%20Measuring%20Devices.pdf)
 
+- **Bend Loss in Pipe Fittings**  
+  Measured head loss across elbows and other fittings; extracted minor loss coefficients (k) and compared them to standard handbook values.  
+  **Report:** [PDF](/engineering-portfolio/assets/img/Lab%204%20Bend%20Loss.pdf)
+
 - **Velocity Profile in Cross-Flow**  
   Mapped velocity profile downstream of a rod bank using a pitot tube, showing wake behavior and recirculation regions.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab8-Velocity%20Profile.pdf)
