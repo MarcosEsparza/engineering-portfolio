@@ -58,7 +58,7 @@ In the lab, I’ve run experiments on cross-flow heat exchangers, fluid friction
 
 - **Material:** CNC/lathe-machined 6061-T6 aluminum fin can, bolted to a 4" fiberglass airframe  
 - **Design target:** ≥1.5× V_max flutter margin  
-- **Status:** Draft CAD model – final geometry (including fillets between the fin tabs and body-tube section) will be refined before machining.
+- **Status:** Preliminary CAD model for the IREC 2026 fin-can design.
 
 **Views (current CAD draft):** Planform • Side • Isometric  
 
