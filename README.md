@@ -118,20 +118,6 @@ Isometric view:
 ### Featured Lab Reports
 A selection of lab work most relevant to thermo-fluids, energy systems, and experimental testing.
 
-#### Performance Analysis of a Turbojet Engine (SR-30 Mini-Lab)
-**Role:** Lab Team Member  
-**Tools:** SR-30 Mini-Lab test stand, DAQ/LabVIEW, MATLAB, Excel  
-
-- Analyzed sample data from an SR-30 turbojet engine running at high power on the Mini-Lab test stand.  
-- Used measured pressures and temperatures to compute density, velocity, and Mach number at the compressor inlet (station 1) and nozzle exit (station 5), confirming a high-speed but still subsonic exhaust jet.  
-- Estimated mass flow rate at the inlet and nozzle and checked conservation of mass across the engine.  
-- Built a 1-D control-volume momentum model to predict static thrust from the exhaust conditions and compared it to load-cell measurements (model underpredicted by ~14%).  
-- Explained discrepancies in terms of probe placement, non-uniform exhaust flow, and neglected losses, and related results back to the ideal Brayton cycle vs. real engine behavior.  
-
-**Report:** [PDF](/engineering-portfolio/assets/img/Performance%20Analysis%20of%20a%20Turbojet%20Engine.pdf)
-
----
-
 #### Pelton Turbine – Performance & Efficiency
 **Role:** Lab Team Member  
 **Tools:** Pelton turbine rig, load cell, tachometer, Excel  
@@ -145,6 +131,19 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
   <img src="/engineering-portfolio/assets/img/PowerVsSpeed.png" alt="Power vs Speed for Pelton turbine" width="450">
 </p>
 *Figure: Measured power vs. rotational speed for the Pelton turbine at 50% and 100% spear-valve openings, showing peak power at intermediate speeds.*
+
+---
+
+#### Performance Analysis of a Turbojet Engine (SR-30 Mini-Lab)
+**Role:** Lab Team Member  
+**Tools:** SR-30 Mini-Lab test stand, DAQ/LabVIEW, MATLAB, Excel  
+
+- Analyzed sample data from an SR-30 turbojet engine operating at a representative high-power condition.  
+- Used measured pressures and temperatures to compute density, velocity, and Mach number at the compressor inlet (station 1) and nozzle exit (station 5), confirming a high-speed but subsonic exhaust jet.  
+- Estimated mass flow rate at the inlet and nozzle and checked approximate conservation of mass across the engine.  
+- Built a 1-D control-volume momentum model to predict static thrust from the exhaust conditions and compared it to load-cell measurements (model underpredicted by ~14%).  
+- Explained discrepancies in terms of probe placement, non-uniform exhaust flow, and neglected losses, and related results back to the ideal Brayton cycle vs. real engine behavior.  
+**Report:** [PDF](/engineering-portfolio/assets/img/Performance%20Analysis%20of%20a%20Turbojet%20Engine.pdf)
 
 ---
 
@@ -179,17 +178,6 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
   <img src="/engineering-portfolio/assets/img/FrictionFactorAnalysis.png" alt="Friction factor vs Reynolds number compared to Blasius correlation" width="450">
 </p>
 *Figure: Experimental friction factor vs. Reynolds number for a smooth pipe, compared to the Blasius correlation, showing good agreement across the tested range.*
-
----
-
-### Carbon Fiber in Aerospace — Materials Presentation
-
-**Role:** Presenter  
-**Tools:** PowerPoint, Excel  
-
-- Compared carbon fiber and aluminum for aerospace structures, focusing on stiffness-to-weight ratio and weight reduction.  
-- Discussed trade-offs in cost, manufacturability, and application to aerospace components.  
-- **Presentation:** [PDF](/engineering-portfolio/assets/img/Material%20Science%20Project.pdf)  
 
 ---
 
