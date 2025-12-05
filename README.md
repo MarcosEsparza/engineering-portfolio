@@ -32,22 +32,22 @@ In the lab, I have run experiments on cross-flow heat exchangers, fluid friction
 
 ### Overview
 
-- Lead aerodynamic design and fin-can development for FAST’s 10,000-ft COTS rocket for IREC.  
-- Design a modular fin-can and airframe to safely reach ~10,000 ft on an L-class motor while maintaining ≥1.5× flutter margin and competition-typical stability ranges.  
-- Treat the rocket as a small field system: define loads and margins, keep interfaces clean in CAD, and document decisions so the hardware is safe, repeatable, and buildable by the team.
+- Leading aerodynamic design and fin-can development for FAST’s 10,000-ft COTS rocket for IREC.  
+- Designing a modular fin-can and airframe to safely reach ~10,000 ft on an L-class motor while maintaining ≥1.5× flutter margin and competition-typical stability ranges.  
+- Treating the rocket as a small field system: defining loads and margins, keeping interfaces clean in CAD, and documenting decisions so the hardware is safe, repeatable, and buildable by the team.
 
 ### Technical Scope
 
-- Designed fin geometry and performed flutter and static-stability analysis using MATLAB and OpenRocket.  
-- Modeled a 4.02-in modular fiberglass airframe with an aluminum fin-can in SOLIDWORKS, including internal structure.  
-- Verified ≥1.5× V_max flutter margin and maintained stability margin within competition-typical ranges.  
-- Integrated internal structure, recovery system, and avionics into a unified CAD model to align mass properties and mechanical interfaces.  
-- Established a documentation workflow for the IREC 2026 technical report and team GitHub repository.  
+- Designing fin geometry and performing flutter and static-stability analysis using MATLAB and OpenRocket.  
+- Developing a 4.02-in modular fiberglass airframe with an aluminum fin-can in SOLIDWORKS, including internal structure.  
+- Targeting ≥1.5× V_max flutter margin, with preliminary analysis showing acceptable margins at current design conditions.  
+- Integrating internal structure, recovery system, and avionics into a unified CAD model to align mass properties and mechanical interfaces.  
+- Building and maintaining a documentation workflow for the IREC 2026 technical report and the team GitHub repository.  
 - **MATLAB Code:** [Fin Flutter Solver](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team/blob/main/simulations/matlab/fin_flutter/AluminumFinCan.m)  
 
 ### Flight Simulation — L1500T
 
-- Apogee: **10,990 ft**  
+- Current simulation apogee: **10,990 ft**  
 - Max velocity: **1,191 ft/s (Mach 1.077)**  
 - Max acceleration: **431 ft/s²**  
 - Stability margin: **2.76 cal**  
@@ -59,7 +59,7 @@ In the lab, I have run experiments on cross-flow heat exchangers, fluid friction
 
 - **Material:** CNC/lathe-machined 6061-T6 aluminum fin can, bolted to a 4" fiberglass airframe  
 - **Design target:** ≥1.5× V_max flutter margin  
-- **Status:** Preliminary CAD model for the IREC 2026 fin-can design  
+- **Status:** Preliminary CAD model for the IREC 2026 fin-can design, being refined as simulations and requirements evolve.  
 
 **Views:** Planform • Side • Isometric  
 
@@ -189,7 +189,7 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 
 - Used the TE93 cross-flow heat exchanger to measure transient cooling of a heated copper rod.  
 - Applied lumped-capacitance methods to estimate convective heat-transfer coefficients from temperature–time data.  
-- Compared experimental \(h\)-values to textbook correlations and analyzed sources of error and deviation.  
+- Compared experimental h-values to textbook correlations and analyzed sources of error and deviation.  
 
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab7%20Cooling%20Rate.pdf)
 
@@ -229,7 +229,7 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab5%20Flow%20Measuring%20Devices.pdf)
 
 - **Bend Loss in Pipe Fittings**  
-  Measured head loss across elbows and other fittings; extracted minor loss coefficients (\(k\)) and compared them to standard handbook values.  
+  Measured head loss across elbows and other fittings; extracted minor loss coefficients (k) and compared them to standard handbook values.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab%204%20Bend%20Loss.pdf)
 
 - **Velocity Profile in Cross-Flow**  
