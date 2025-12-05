@@ -7,9 +7,9 @@ Mechanical Engineering • Energy & Thermo-Fluids • High-Power Rocketry
 
 ## About Me
 
-I’m a Mechanical Engineering student at the University of Texas Permian Basin with a focus on energy systems, thermo-fluids, and experimental testing. I work at the intersection of high-power rocketry and lab-scale energy hardware, where I care about not just modeling performance but also how hardware is built, instrumented, and verified.
+I’m a Mechanical Engineering student at the University of Texas Permian Basin with a focus on energy systems, thermo-fluids, and experimental testing. I work at the intersection of high-power rocketry and lab-scale energy rigs, where I care about not just modeling performance but also how equipment is built, instrumented, and verified.
 
-I am part of the Falcon Aeronautics & Space Team (FAST), where I lead aerodynamic design and fin-can development for our 10,000-ft COTS rocket competing at the Intercollegiate Rocket Engineering Competition (IREC). My work spans fin geometry, flutter and static-stability analysis, and integrated airframe modeling in SOLIDWORKS, MATLAB, and OpenRocket.
+I’m part of the Falcon Aeronautics & Space Team, where I lead aerodynamic design and fin-can development for our 10,000-ft COTS rocket competing at the Intercollegiate Rocket Engineering Competition (IREC). My work spans fin geometry, flutter and static-stability analysis, and integrated airframe modeling in SOLIDWORKS, MATLAB, and OpenRocket.
 
 In the lab, I have run experiments on cross-flow heat exchangers, fluid friction and bend losses, flow-measurement devices, transient cooling, and velocity profiles. These projects have given me hands-on experience with piping systems, pressure drop, heat transfer, and DAQ/LabVIEW-style measurement setups—the same fundamentals that show up in real energy and pipeline infrastructure.
 
