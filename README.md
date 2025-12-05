@@ -11,7 +11,7 @@ I’m a Mechanical Engineering student at the University of Texas Permian Basin 
 
 I’m part of the Falcon Aeronautics & Space Team, where I lead aerodynamic design and fin-can development for our 10,000-ft COTS rocket competing at the Intercollegiate Rocket Engineering Competition (IREC). My work spans fin geometry, flutter and static-stability analysis, and integrated airframe modeling in SOLIDWORKS, MATLAB, and OpenRocket.
 
-In the lab, I have run experiments on cross-flow heat exchangers, fluid friction and bend losses, flow-measurement devices, transient cooling, and velocity profiles. These projects have given me hands-on experience with piping systems, pressure drop, heat transfer, and DAQ/LabVIEW-style measurement setups—the same fundamentals that show up in real energy and pipeline infrastructure.
+In the lab, I have run experiments on cross-flow heat exchangers, fluid friction and bend losses, flow-measurement devices, transient cooling, and velocity profiles. These projects have given me hands-on experience with piping systems, pressure drop, heat transfer, and DAQ/LabVIEW-style measurement setups, the same fundamentals that show up in real energy and pipeline infrastructure.
 
 *Currently seeking Summer 2026 internships in energy systems, turbomachinery, or mechanical design and testing.*
 
