@@ -40,7 +40,7 @@ In the lab, I have run experiments on cross-flow heat exchangers, fluid friction
 
 - Designed fin geometry and performed flutter and static-stability analysis using MATLAB and OpenRocket.  
 - Modeled a 4.02-in modular fiberglass airframe with an aluminum fin-can in SOLIDWORKS, including internal structure.  
-- Verified ≥1.5× \(V_\text{max}\) flutter margin and maintained stability margin within competition-typical ranges.  
+- Verified ≥1.5× V_max flutter margin and maintained stability margin within competition-typical ranges.  
 - Integrated internal structure, recovery system, and avionics into a unified CAD model to align mass properties and mechanical interfaces.  
 - Established a documentation workflow for the IREC 2026 technical report and team GitHub repository.  
 - **MATLAB Code:** [Fin Flutter Solver](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team/blob/main/simulations/matlab/fin_flutter/AluminumFinCan.m)  
@@ -58,7 +58,7 @@ In the lab, I have run experiments on cross-flow heat exchangers, fluid friction
 ### Aluminum Fin Can – SOLIDWORKS
 
 - **Material:** CNC/lathe-machined 6061-T6 aluminum fin can, bolted to a 4" fiberglass airframe  
-- **Design target:** ≥1.5× \(V_\text{max}\) flutter margin  
+- **Design target:** ≥1.5× V_max flutter margin  
 - **Status:** Preliminary CAD model for the IREC 2026 fin-can design  
 
 **Views:** Planform • Side • Isometric  
@@ -209,7 +209,7 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
 **Tools:** H408 apparatus, pressure gauges, Excel  
 
 - Measured friction factors for smooth and rough pipes and multiple fittings.  
-- Calculated Reynolds number, head loss, and minor loss coefficients (\(k\), \(k_\ell\)) and compared them with Moody/Blasius correlations.  
+- Calculated Reynolds number, head loss, and minor loss coefficients (k, k_l) and compared them with Moody/Blasius correlations.  
 - Related findings to real piping networks, pump sizing, and industrial fluid systems.  
 
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab3%20Friction%20Fluid.pdf)
