@@ -1,67 +1,62 @@
 # Marcos Esparza – Engineering Portfolio  
-Mechanical Engineering • Energy & Thermo-Fluids • Experimental Testing & Rocketry  
+Mechanical Engineering Student | Energy Systems | Thermo-Fluids | Experimental Testing | Applied Design
 
-[About](#about-me) • [Resume](#resume) • [Featured Project](#featured-project--irec-2026) • [Projects](#projects) • [Skills](#skills) • [Contact](#contact)
+[About](#about-me) • [Resume](#resume) • [Featured Project](#featured-project--irec-2026) • [Projects](#selected-engineering-projects) • [Skills](#skills) • [Contact](#contact)
 
 ---
 
 ## About Me
 
-I’m a Mechanical Engineering student at the University of Texas Permian Basin, graduating December 2026, with a focus on energy systems and thermo-fluids. I’m most interested in roles where I can connect analysis with real test rigs and data, especially in energy and flow systems.
+I am a Mechanical Engineering student at the University of Texas Permian Basin, graduating in December 2026, with a technical focus on energy systems, thermo-fluids, experimental testing, and mechanical design. My work is centered on connecting engineering analysis to real hardware, measured data, and practical system performance.
 
-On campus I serve as Aerodynamic Design Lead for the Falcon Aeronautics & Space Team. Our team is developing a 10,000-ft competition rocket for the Spaceport America Cup and Lone Star Cup. I’m responsible for the fin can and overall aerodynamic behavior. That means checking stability and flutter margins and making sure recovery and avionics fit into a design the team can actually build and fly. I also hold a NAR Level 1 high-power rocketry certification and I’m building a dual-deploy Level 2 rocket.
+I currently serve as Aerodynamic Design Lead for the Falcon Aeronautics & Space Team, where I am leading fin-can and aerodynamic development for a 10,000-ft competition rocket for the Spaceport America Cup and Lone Star Cup. My responsibilities include stability and flutter analysis, CAD integration, and making sure the design is manufacturable, flight-ready, and well documented.
 
-In the lab, I have run experiments on cross-flow heat exchangers, fluid friction and bend losses, flow-measurement devices, transient cooling, and velocity profiles. These projects have given me hands-on experience with piping systems, pressure drop, heat transfer, and DAQ/LabVIEW-style measurement setups. Those skills translate directly to work in energy, production, and pipeline systems.
+My laboratory and project experience includes cross-flow heat exchangers, fluid friction and bend losses, flow-measurement devices, transient cooling, turbomachinery performance, and rocket flight design. Across these projects, I have developed experience in pressure-drop analysis, heat transfer, data reduction, test interpretation, and engineering decision-making.
 
-I am building my career around analyzing and improving energy systems and mechanical hardware, with a long-term goal of contributing to engineering and technology in the Permian Basin.
+I am especially interested in engineering roles where analysis, testing, and hardware come together, particularly in energy, production, and fluid-based systems.
 
 ---
 
 ## Resume
 
 - **[📄 View Resume (PDF)](assets/img/MarcosEsparza_Resume.pdf)**
-- **[🔗 View IREC GitHub Repo](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team)**
+- **[🔗 LinkedIn](https://www.linkedin.com/in/marcos-v-esparza/)**
+- **[🔗 Falcon Aeronautics & Space Team GitHub](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team)**
 
 ---
 
-## Featured Project — IREC 2026  
+## Featured Project — IREC 2026
 
 **Role:** Aerodynamic Design Lead  
-**Team:** Falcon Aeronautics & Space Team (FAST), UTPB  
-**Tools:** SOLIDWORKS, MATLAB, OpenRocket, Excel  
+**Team:** Falcon Aeronautics & Space Team, UTPB  
+**Tools:** SOLIDWORKS, MATLAB, OpenRocket, Excel
 
-### Overview
+### Project Summary
 
-- Leading aerodynamic design and fin-can development for FAST’s 10,000-ft COTS rocket for IREC.  
-- Designing a modular fin-can and airframe to safely reach ~10,000 ft on an L-class motor while maintaining at least 1.5× flutter margin and competition-typical stability ranges.  
-- Treating the rocket as a small field system: defining loads and margins, keeping interfaces clean in CAD, and documenting decisions so the hardware is safe, repeatable, and buildable by the team.
+Leading aerodynamic and fin-can development for a 10,000-ft collegiate competition rocket designed for the Intercollegiate Rocket Engineering Competition (IREC). The project is being developed around clear technical constraints: stable flight, manufacturable hardware, reliable recovery integration, and sufficient flutter margin at expected flight conditions.
 
-### Technical Scope
+### Engineering Scope
 
-- Designing fin geometry and performing flutter and static-stability analysis using MATLAB and OpenRocket.  
-- Developing a 4.02 in modular fiberglass airframe with an aluminum fin-can in SOLIDWORKS, including internal structure.  
-- Targeting at least 1.5× V_max flutter margin, with preliminary analysis showing acceptable margins at current design conditions.  
-- Integrating internal structure, recovery system, and avionics into a unified CAD model to align mass properties and mechanical interfaces.  
-- Building and maintaining a documentation workflow for the IREC 2026 technical report and the team GitHub repository.  
-- **MATLAB Code:** [Fin Flutter Solver](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team/blob/main/simulations/matlab/fin_flutter/AluminumFinCan.m)  
+- Designed fin geometry and evaluated aerodynamic stability using MATLAB and OpenRocket.
+- Developed a modular **4.02 in fiberglass airframe and aluminum fin-can architecture** in SOLIDWORKS.
+- Performed preliminary fin flutter analysis with a target of **at least 1.5× maximum flight velocity margin**.
+- Integrated recovery, internal structure, and avionics packaging into a unified CAD workflow.
+- Supported technical documentation and design traceability through organized simulation, CAD, and GitHub records.
 
-### Flight Simulation — L1500T
+### Current Flight Simulation — L1500T
 
-- Current simulation apogee: **10,990 ft**  
-- Max velocity: **1,191 ft/s (Mach 1.077)**  
-- Max acceleration: **431 ft/s²**  
-- Stability margin: **2.76 cal**  
-- Simulation tool: OpenRocket with custom MATLAB post-processing  
+- **Apogee:** 10,990 ft  
+- **Maximum velocity:** 1,191 ft/s (Mach 1.077)  
+- **Maximum acceleration:** 431 ft/s²  
+- **Static stability margin:** 2.76 cal  
 
 ![FAST 10k COTS rocket with aluminum fin can](assets/img/IRECRocket.PNG)
 
-### Aluminum Fin Can – SOLIDWORKS
+### Aluminum Fin Can Design
 
-- **Material:** CNC and lathe machined 6061-T6 aluminum fin can, bolted to a 4 in fiberglass airframe  
-- **Design target:** at least 1.5× V_max flutter margin  
-- **Status:** Preliminary CAD model for the IREC 2026 fin-can design, being refined as simulations and requirements evolve.  
-
-**Views:** Planform • Side • Isometric  
+**Material:** 6061-T6 aluminum  
+**Configuration:** Modular fin-can integrated with 4 in fiberglass airframe  
+**Design goal:** Structural robustness and flutter margin suitable for transonic flight
 
 Planform view:  
 ![Aluminum fin can planform view](assets/img/AlFinCan3.PNG)
@@ -72,27 +67,22 @@ Side view:
 Isometric view:  
 ![Aluminum fin can isometric view](assets/img/AlFinCan.PNG)
 
----
-
-## Falcon Aeronautics & Space Team
-
-- FAST engages students at UTPB in aerospace and space-exploration projects through hands-on design, testing, and competition work.  
-- The team focuses on building practical experience in rocketry, avionics, and aerospace systems while growing engineering opportunities in the Permian Basin.  
-- **FAST Instagram:** [fast.utpb](https://www.instagram.com/fast.utpb/)  
+**Related MATLAB Code:** [Fin Flutter Solver](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team/blob/main/simulations/matlab/fin_flutter/AluminumFinCan.m)
 
 ---
 
-## Projects
+## Selected Engineering Projects
 
-### Level 1 High-Power Certification
+### Level 1 High-Power Rocket Certification
 
 **Role:** Designer and Builder  
-**Tools:** OpenRocket, hand calculations, shop tools  
-**Launch Site:** San Angelo, TX  
+**Tools:** OpenRocket, hand calculations, fabrication and launch prep  
+**Launch Site:** San Angelo, TX
 
-- Designed, built, and flew an L1 certification rocket.  
-- Achieved altitude: **2,148 ft** (about 2.4% error vs. prediction), validating the simulation and modeling approach.  
-- Motor: **H219T-14**  
+- Designed, built, and successfully flew a Level 1 certification rocket.
+- Reached **2,148 ft**, with approximately **2.4% error** relative to predicted altitude.
+- Demonstrated strong agreement between simulation and actual flight performance.
+- Motor used: **H219T-14**
 
 <video width="480" controls>
   <source src="/engineering-portfolio/assets/img/IMG_4424.mp4" type="video/mp4">
@@ -101,15 +91,15 @@ Isometric view:
 
 ---
 
-### Level 2 Certification — In Progress
+### Level 2 Certification Rocket — In Progress
 
 **Role:** Designer and Builder  
-**Tools:** OpenRocket, CAD, testing hardware  
+**Tools:** OpenRocket, CAD, avionics integration, recovery system planning
 
-- Designing a 4 in dual-deploy Level 2 rocket with an avionics bay and separate drogue and main recovery.  
-- Expected altitude: **about 4,200 ft** on a **J425R-14** motor.  
-- Target stability margin: **about 1.9 cal**.  
-- Focus on robust airframe design, recovery integration, and repeatable preparation and launch procedures.
+- Designing a **4 in dual-deploy Level 2 rocket** with dedicated drogue and main recovery bays.
+- Current simulated apogee is approximately **4,200 ft** on a **J425R-14** motor.
+- Design emphasis is on recovery reliability, structural robustness, and repeatable field preparation.
+- Current target stability margin is approximately **1.9 cal**.
 
 ![L2 Certification Rocket](/engineering-portfolio/assets/img/L2Cert.PNG)
 
@@ -117,37 +107,17 @@ Isometric view:
 
 ## Featured Lab Reports
 
-A selection of lab work most relevant to thermo-fluids, energy systems, and experimental testing.
-
-### Pelton Turbine – Performance and Efficiency
-
-**Role:** Lab Team Member  
-**Tools:** Pelton turbine rig, load cell, tachometer, Excel  
-
-- Characterized Pelton turbine performance under varying loads and spear-valve positions.  
-- Generated torque–speed curves, computed hydraulic power, and evaluated overall turbine efficiency.  
-- Connected experimental results to turbomachinery performance and energy-system applications.  
-
-**Report:** [PDF](/engineering-portfolio/assets/img/Lab2%20Pelton%20Turbine.pdf)
-
-<p align="center">
-  <img src="/engineering-portfolio/assets/img/PowerVsSpeed.png" alt="Power vs Speed for Pelton turbine" width="450">
-</p>
-
-*Figure: Measured power vs. rotational speed for the Pelton turbine at 50% and 100% spear-valve openings, showing peak power at intermediate speeds.*
-
----
+A selection of projects most relevant to thermo-fluids, energy systems, and experimental analysis.
 
 ### Performance Analysis of a Turbojet Engine (SR-30 Mini-Lab)
 
 **Role:** Lab Team Member  
-**Tools:** SR-30 Mini-Lab test stand, DAQ and LabVIEW, MATLAB, Excel  
+**Tools:** SR-30 Mini-Lab, LabVIEW, DAQ, Excel, MATLAB
 
-- Processed SR-30 turbojet Mini-Lab data at a representative high-power condition using LabVIEW and Excel.  
-- Computed density, velocity, and Mach number at the compressor inlet (station 1) and nozzle exit (station 5), confirming a high-speed but subsonic exhaust jet.  
-- Estimated inlet and nozzle mass flow rates and checked approximate conservation of mass across the engine.  
-- Built a one dimensional control-volume momentum model to predict static thrust and compared it to load-cell thrust measurements (prediction about 9.5 lbf vs. about 11 lbf measured, roughly 14 percent low).  
-- Interpreted discrepancies in terms of probe placement, non-uniform exhaust flow, and departures from ideal Brayton-cycle assumptions.  
+- Evaluated compressor-inlet and nozzle-exit flow conditions for an SR-30 turbojet.
+- Estimated density, velocity, Mach number, and mass flow rate across the engine.
+- Developed a one-dimensional momentum-based thrust model and compared prediction to measured thrust.
+- Interpreted discrepancies in terms of non-ideal flow behavior and instrumentation limitations.
 
 **Report:** [PDF](/engineering-portfolio/assets/img/Performance%20Analysis%20of%20a%20Turbojet%20Engine.pdf)
 
@@ -157,18 +127,34 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
        width="450">
 </p>
 
-*Figure: SR-30 turbojet engine installed in the Mini-Lab test stand with enclosed test cell, control gauges, and throttle lever.*
+---
+
+### Pelton Turbine – Performance and Efficiency
+
+**Role:** Lab Team Member  
+**Tools:** Pelton turbine rig, load cell, tachometer, Excel
+
+- Measured turbine behavior under varying spear-valve positions and loading conditions.
+- Generated torque-speed and power-speed relationships.
+- Calculated hydraulic power and overall efficiency.
+- Connected experimental behavior to turbomachinery performance fundamentals.
+
+**Report:** [PDF](/engineering-portfolio/assets/img/Lab2%20Pelton%20Turbine.pdf)
+
+<p align="center">
+  <img src="/engineering-portfolio/assets/img/PowerVsSpeed.png" alt="Power vs Speed for Pelton turbine" width="450">
+</p>
 
 ---
 
 ### Cross-Flow Heat Exchanger – TE93
 
 **Role:** Lab Team Member  
-**Tools:** TE93 cross-flow rig, pitot-static tube, DAQ, Excel  
+**Tools:** TE93 rig, pitot-static measurements, DAQ, Excel
 
-- Measured velocity, pressure drop, and dynamic pressure across a cross-flow rod bank.  
-- Used correlations to evaluate heat-transfer behavior and compared experimental and theoretical trends.  
-- Demonstrated understanding of convective heat transfer, pressure loss, and airflow behavior.  
+- Measured velocity and pressure behavior across a cross-flow rod bank.
+- Compared experimental behavior against theoretical trends and heat-transfer correlations.
+- Applied thermo-fluids analysis to interpret convective behavior and flow losses.
 
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab6%20Cross%20Flow%20Heat%20Exchanger%20(1).pdf)
 
@@ -178,18 +164,16 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
        width="450">
 </p>
 
-*Figure: Ideal vs. actual air velocity for multiple valve openings, with deviations typically within about 10 percent of theory.*
-
 ---
 
 ### Cooling Rate and Transient Convection
 
 **Role:** Lab Team Member  
-**Tools:** TE93 cross-flow heat exchanger, thermocouples, DAQ, Excel  
+**Tools:** TE93 apparatus, thermocouples, DAQ, Excel
 
-- Used the TE93 cross-flow heat exchanger to measure transient cooling of a heated copper rod.  
-- Applied lumped-capacitance methods to estimate convective heat-transfer coefficients from temperature–time data.  
-- Compared experimental h values to textbook correlations and analyzed sources of error and deviation.  
+- Measured transient cooling of a heated copper rod under varying airflow conditions.
+- Applied lumped-capacitance analysis to estimate convective heat-transfer coefficients.
+- Compared experimental results to expected correlation-based values.
 
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab7%20Cooling%20Rate.pdf)
 
@@ -199,18 +183,17 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
        width="450">
 </p>
 
-*Figure: Cooling curves for a single heated rod at 20–80 percent airflow; steeper slopes at higher airflow correspond to larger convective heat-transfer coefficients.*
-
 ---
 
 ### Fluid Friction and Bend Loss – H408
 
 **Role:** Lab Team Member  
-**Tools:** H408 apparatus, pressure gauges, Excel  
+**Tools:** H408 apparatus, pressure gauges, Excel
 
-- Measured friction factors for smooth and rough pipes and multiple fittings.  
-- Calculated Reynolds number, head loss, and minor loss coefficients (k and k_l) and compared them with Moody and Blasius correlations.  
-- Related findings to real piping networks, pump sizing, and industrial fluid systems.  
+- Measured friction factors in smooth and rough pipes and across multiple fittings.
+- Calculated Reynolds number, head loss, and minor loss coefficients.
+- Compared results against standard correlations including Moody and Blasius trends.
+- Related findings to piping systems, pump performance, and industrial fluid transport.
 
 **Report:** [PDF](/engineering-portfolio/assets/img/Lab3%20Friction%20Fluid.pdf)
 
@@ -218,70 +201,72 @@ A selection of lab work most relevant to thermo-fluids, energy systems, and expe
   <img src="/engineering-portfolio/assets/img/FrictionFactorAnalysis.png" alt="Friction factor vs Reynolds number compared to Blasius correlation" width="450">
 </p>
 
-*Figure: Experimental friction factor vs. Reynolds number for a smooth pipe, compared with the Blasius correlation, showing good agreement over the tested range.*
-
 ---
 
-### Other Lab Reports
+## Additional Lab Work
 
 - **Flow Measuring Devices**  
-  Compared orifice plates, Venturi meters, and rotameters; evaluated discharge coefficients and measurement uncertainties.  
+  Compared orifice plates, Venturi meters, and rotameters; evaluated discharge coefficients and uncertainty.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab5%20Flow%20Measuring%20Devices.pdf)
 
 - **Bend Loss in Pipe Fittings**  
-  Measured head loss across elbows and other fittings; extracted minor loss coefficients (k) and compared them to standard handbook values.  
+  Measured minor losses across fittings and compared experimental coefficients with handbook values.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab%204%20Bend%20Loss.pdf)
 
 - **Velocity Profile in Cross-Flow**  
-  Mapped the velocity profile downstream of a rod bank using a pitot tube, resolving wake behavior and recirculation regions.  
+  Mapped wake behavior and downstream velocity variation using pitot-based measurements.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab8-Velocity%20Profile.pdf)
 
 - **Impact of a Jet**  
-  Investigated momentum transfer and force from a water jet striking targets; compared measured forces with theoretical predictions.  
+  Investigated momentum transfer and compared measured reaction forces with theory.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab1%20Impact%20of%20a%20Jet-1.pdf)
 
 - **Impact: Charpy and Izod**  
-  Performed impact testing on multiple 3D-printed polymers to compare absorbed energy and fracture behavior.  
+  Compared absorbed energy and fracture behavior for multiple 3D-printed polymers.  
   **Report:** [PDF](/engineering-portfolio/assets/img/Lab9-Impact%20Charpy%20and%20Izod.pdf)
 
 - **Torsion Test**  
-  Obtained shear modulus and torque–angle behavior for circular shafts; compared elastic and plastic response to theoretical models.  
+  Evaluated torque-angle response, shear modulus, and elastic-plastic shaft behavior.  
   **Report:** [PDF](/engineering-portfolio/assets/img/lab10-%20Torsion%20Lab%20Report.pdf)
 
 ---
 
 ## Skills
 
-### Software
+### Engineering Software
+- SOLIDWORKS
+- MATLAB
+- OpenRocket
+- Excel
+- LabVIEW / DAQ systems
 
-- SOLIDWORKS  
-- MATLAB  
-- OpenRocket  
-- LabVIEW and DAQ systems  
-- Excel for engineering and data analysis  
+### Analysis and Testing
+- Experimental data reduction
+- Pressure-drop and head-loss analysis
+- Heat-transfer analysis
+- Turbomachinery performance calculations
+- Flow measurement and instrumentation
+- Engineering plotting and technical reporting
 
-### Engineering and Domain
-
-- Thermo-fluids and energy systems  
-- Heat transfer in cross-flow and transient problems  
-- Piping, pressure losses, and head loss  
-- Mechanical and structural design with CAD  
-- Experimental methods, DAQ, and data analysis  
-- High-power rocketry, aerodynamic design, and stability  
-- Recovery systems including dual-deploy, parachute sizing, and rigging
+### Design and Domain Areas
+- Thermo-fluids and energy systems
+- Rocket aerodynamic design
+- Stability and flutter analysis
+- Recovery system integration
+- Mechanical design for manufacturable hardware
 
 ### Certifications
-
-- Tripoli and NAR Level 1 (Level 2 in progress)  
+- NAR Level 1 High-Power Rocketry
+- Level 2 in progress
 
 ---
 
 ## Organizations
 
-- ASME – Student Member  
-- NAR – Student Member  
-- TRA – Student Member  
-- AIAA – Student Member  
+- ASME – Student Member
+- AIAA – Student Member
+- National Association of Rocketry – Student Member
+- Tripoli Rocketry Association – Student Member
 
 ---
 
