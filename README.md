@@ -17,14 +17,6 @@ I am especially interested in engineering roles where analysis, testing, and har
 
 ---
 
-## Resume
-
-- **[📄 View Resume (PDF)](assets/img/MarcosEsparza_Resume.pdf)**
-- **[🔗 LinkedIn](https://www.linkedin.com/in/marcos-v-esparza/)**
-- **[🔗 Falcon Aeronautics & Space Team GitHub](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team)**
-
----
-
 ## Featured Project — IREC 2026
 
 **Role:** Aerodynamic Design Lead  
