@@ -93,7 +93,7 @@ The IREC vehicle has progressed from simulation and CAD into physical hardware f
        width="450">
 </p>
 
-*Figure: Fiberglass nose cone with metallic tip and lower shoulder, representing a completed upper vehicle hardware component.*
+*Figure: Fiberglass nose cone with metallic tip and lower shoulder.*
 
 ---
 
