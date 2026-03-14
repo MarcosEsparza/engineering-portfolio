@@ -33,7 +33,7 @@ I am especially interested in engineering roles where analysis, testing, and har
 
 ### Project Summary
 
-Leading aerodynamic and fin-can development for a 10,000-ft collegiate competition rocket designed for the Intercollegiate Rocket Engineering Competition (IREC). The project is being developed around clear technical constraints: stable flight, manufacturable hardware, reliable recovery integration, and sufficient flutter margin at expected flight conditions.
+Leading aerodynamic and fin-can development for a 10,000-ft collegiate competition rocket designed for the Intercollegiate Rocket Engineering Competition (IREC). The project is being developed around real flight constraints: stable transonic performance, manufacturable hardware, clean subsystem integration, reliable recovery packaging, and sufficient flutter margin at expected peak velocity.
 
 ### Engineering Scope
 
@@ -68,6 +68,40 @@ Isometric view:
 ![Aluminum fin can isometric view](assets/img/AlFinCan.PNG)
 
 **Related MATLAB Code:** [Fin Flutter Solver](https://github.com/MarcosEsparza/Falcon-Aeronautics-and-Space-Team/blob/main/simulations/matlab/fin_flutter/AluminumFinCan.m)
+
+### Hardware Build Progress
+
+The IREC vehicle has progressed from simulation and CAD into physical hardware fabrication and subsystem integration. These images show actual progress on the rocket’s fin can, airframe assembly, and nose cone hardware.
+
+**Fabricated fin can assembly**
+
+<p align="center">
+  <img src="/engineering-portfolio/assets/img/FinCan.jpeg"
+       alt="Fabricated aluminum fin can installed on fiberglass rocket airframe"
+       width="450">
+</p>
+
+*Figure: Fabricated aluminum fin can installed on the fiberglass airframe, showing the real fin-body interface and assembled hardware.*
+
+**Airframe integration and assembly**
+
+<p align="center">
+  <img src="/engineering-portfolio/assets/img/Ebay.jpeg"
+       alt="Rocket airframe section during fabrication and integration"
+       width="450">
+</p>
+
+*Figure: Bonded airframe section during fabrication, documenting structural integration and physical build progress.*
+
+**Nose cone hardware**
+
+<p align="center">
+  <img src="/engineering-portfolio/assets/img/NoseCone.jpeg"
+       alt="Fiberglass nose cone with metallic tip and lower shoulder section"
+       width="450">
+</p>
+
+*Figure: Fiberglass nose cone with metallic tip and lower shoulder, representing a completed upper vehicle hardware component.*
 
 ---
 
