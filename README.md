@@ -76,7 +76,7 @@ The IREC vehicle has progressed from simulation and CAD into physical hardware f
 **Fabricated fin can assembly**
 
 <p align="center">
-  <img src="/engineering-portfolio/assets/img/FinCan.jpeg"
+  <img src="assets/img/FinCan.jpeg"
        alt="Fabricated aluminum fin can installed on fiberglass rocket airframe"
        width="450">
 </p>
@@ -86,7 +86,7 @@ The IREC vehicle has progressed from simulation and CAD into physical hardware f
 **Airframe integration and assembly**
 
 <p align="center">
-  <img src="/engineering-portfolio/assets/img/Ebay.jpeg"
+  <img src="assets/img/Ebay.jpeg"
        alt="Rocket airframe section during fabrication and integration"
        width="450">
 </p>
@@ -96,7 +96,7 @@ The IREC vehicle has progressed from simulation and CAD into physical hardware f
 **Nose cone hardware**
 
 <p align="center">
-  <img src="/engineering-portfolio/assets/img/NoseCone.jpeg"
+  <img src="assets/img/NoseCone.jpeg"
        alt="Fiberglass nose cone with metallic tip and lower shoulder section"
        width="450">
 </p>
@@ -111,7 +111,7 @@ The IREC vehicle has progressed from simulation and CAD into physical hardware f
 
 **Role:** Designer and Builder  
 **Tools:** OpenRocket, hand calculations, fabrication and launch prep  
-**Launch Site:** San Angelo, TX
+**Launch Site:** San Angelo, TX  
 
 - Designed, built, and successfully flew a Level 1 certification rocket.
 - Reached **2,148 ft**, with approximately **2.4% error** relative to predicted altitude.
@@ -119,7 +119,7 @@ The IREC vehicle has progressed from simulation and CAD into physical hardware f
 - Motor used: **H219T-14**
 
 <video width="480" controls>
-  <source src="/engineering-portfolio/assets/img/IMG_4424.mp4" type="video/mp4">
+  <source src="assets/img/IMG_4424.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -132,10 +132,10 @@ The IREC vehicle has progressed from simulation and CAD into physical hardware f
 
 - Designing a **4 in dual-deploy Level 2 rocket** with dedicated drogue and main recovery bays.
 - Current simulated apogee is approximately **4,200 ft** on a **J425R-14** motor.
-- Design emphasis is on recovery reliability, structural robustness, and repeatable field preparation.
+- Current design work emphasizes structural reliability, recovery sequencing, avionics integration, and repeatable field operations.
 - Current target stability margin is approximately **1.9 cal**.
 
-![L2 Certification Rocket](/engineering-portfolio/assets/img/L2Cert.PNG)
+![L2 Certification Rocket](assets/img/L2Cert.PNG)
 
 ---
 
@@ -153,10 +153,10 @@ A selection of projects most relevant to thermo-fluids, energy systems, and expe
 - Developed a one-dimensional momentum-based thrust model and compared prediction to measured thrust.
 - Interpreted discrepancies in terms of non-ideal flow behavior and instrumentation limitations.
 
-**Report:** [PDF](/engineering-portfolio/assets/img/Performance%20Analysis%20of%20a%20Turbojet%20Engine.pdf)
+**Report:** [PDF](assets/img/Performance%20Analysis%20of%20a%20Turbojet%20Engine.pdf)
 
 <p align="center">
-  <img src="/engineering-portfolio/assets/img/Gas%20Turbine.jpeg"
+  <img src="assets/img/Gas%20Turbine.jpeg"
        alt="SR-30 turbojet engine mounted in Mini-Lab test stand"
        width="450">
 </p>
@@ -173,10 +173,10 @@ A selection of projects most relevant to thermo-fluids, energy systems, and expe
 - Calculated hydraulic power and overall efficiency.
 - Connected experimental behavior to turbomachinery performance fundamentals.
 
-**Report:** [PDF](/engineering-portfolio/assets/img/Lab2%20Pelton%20Turbine.pdf)
+**Report:** [PDF](assets/img/Lab2%20Pelton%20Turbine.pdf)
 
 <p align="center">
-  <img src="/engineering-portfolio/assets/img/PowerVsSpeed.png" alt="Power vs Speed for Pelton turbine" width="450">
+  <img src="assets/img/PowerVsSpeed.png" alt="Power vs Speed for Pelton turbine" width="450">
 </p>
 
 ---
@@ -190,10 +190,10 @@ A selection of projects most relevant to thermo-fluids, energy systems, and expe
 - Compared experimental behavior against theoretical trends and heat-transfer correlations.
 - Applied thermo-fluids analysis to interpret convective behavior and flow losses.
 
-**Report:** [PDF](/engineering-portfolio/assets/img/Lab6%20Cross%20Flow%20Heat%20Exchanger%20(1).pdf)
+**Report:** [PDF](assets/img/Lab6%20Cross%20Flow%20Heat%20Exchanger%20(1).pdf)
 
 <p align="center">
-  <img src="/engineering-portfolio/assets/img/IdealVsActual.PNG"
+  <img src="assets/img/IdealVsActual.PNG"
        alt="Ideal vs actual velocity for different valve openings"
        width="450">
 </p>
@@ -209,10 +209,10 @@ A selection of projects most relevant to thermo-fluids, energy systems, and expe
 - Applied lumped-capacitance analysis to estimate convective heat-transfer coefficients.
 - Compared experimental results to expected correlation-based values.
 
-**Report:** [PDF](/engineering-portfolio/assets/img/Lab7%20Cooling%20Rate.pdf)
+**Report:** [PDF](assets/img/Lab7%20Cooling%20Rate.pdf)
 
 <p align="center">
-  <img src="/engineering-portfolio/assets/img/CoolingCurve_SingleRod1.PNG"
+  <img src="assets/img/CoolingCurve_SingleRod1.PNG"
        alt="Cooling curves for heated rod at different airflow settings"
        width="450">
 </p>
@@ -229,39 +229,39 @@ A selection of projects most relevant to thermo-fluids, energy systems, and expe
 - Compared results against standard correlations including Moody and Blasius trends.
 - Related findings to piping systems, pump performance, and industrial fluid transport.
 
-**Report:** [PDF](/engineering-portfolio/assets/img/Lab3%20Friction%20Fluid.pdf)
+**Report:** [PDF](assets/img/Lab3%20Friction%20Fluid.pdf)
 
 <p align="center">
-  <img src="/engineering-portfolio/assets/img/FrictionFactorAnalysis.png" alt="Friction factor vs Reynolds number compared to Blasius correlation" width="450">
+  <img src="assets/img/FrictionFactorAnalysis.png" alt="Friction factor vs Reynolds number compared to Blasius correlation" width="450">
 </p>
 
 ---
 
-## Additional Lab Work
+## Supporting Experimental Work
 
 - **Flow Measuring Devices**  
   Compared orifice plates, Venturi meters, and rotameters; evaluated discharge coefficients and uncertainty.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/Lab5%20Flow%20Measuring%20Devices.pdf)
+  **Report:** [PDF](assets/img/Lab5%20Flow%20Measuring%20Devices.pdf)
 
 - **Bend Loss in Pipe Fittings**  
   Measured minor losses across fittings and compared experimental coefficients with handbook values.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/Lab%204%20Bend%20Loss.pdf)
+  **Report:** [PDF](assets/img/Lab%204%20Bend%20Loss.pdf)
 
 - **Velocity Profile in Cross-Flow**  
   Mapped wake behavior and downstream velocity variation using pitot-based measurements.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/Lab8-Velocity%20Profile.pdf)
+  **Report:** [PDF](assets/img/Lab8-Velocity%20Profile.pdf)
 
 - **Impact of a Jet**  
   Investigated momentum transfer and compared measured reaction forces with theory.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/Lab1%20Impact%20of%20a%20Jet-1.pdf)
+  **Report:** [PDF](assets/img/Lab1%20Impact%20of%20a%20Jet-1.pdf)
 
 - **Impact: Charpy and Izod**  
   Compared absorbed energy and fracture behavior for multiple 3D-printed polymers.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/Lab9-Impact%20Charpy%20and%20Izod.pdf)
+  **Report:** [PDF](assets/img/Lab9-Impact%20Charpy%20and%20Izod.pdf)
 
 - **Torsion Test**  
   Evaluated torque-angle response, shear modulus, and elastic-plastic shaft behavior.  
-  **Report:** [PDF](/engineering-portfolio/assets/img/lab10-%20Torsion%20Lab%20Report.pdf)
+  **Report:** [PDF](assets/img/lab10-%20Torsion%20Lab%20Report.pdf)
 
 ---
 
@@ -290,8 +290,8 @@ A selection of projects most relevant to thermo-fluids, energy systems, and expe
 - Mechanical design for manufacturable hardware
 
 ### Certifications
-- NAR Level 1 High-Power Rocketry
-- Level 2 in progress
+- National Association of Rocketry (NAR) Level 1 High-Power Certification
+- Level 2 High-Power Certification in progress
 
 ---
 
