@@ -1,4 +1,4 @@
-# Marcos Esparza – Engineering Portfolio  
+# Engineering Portfolio  
 Mechanical Engineering Student | Energy Systems | Thermo-Fluids | Experimental Testing | Applied Design
 
 [About](#about-me) • [Resume](#resume) • [Featured Project](#featured-project--irec-2026) • [Projects](#selected-engineering-projects) • [Skills](#skills) • [Contact](#contact)
