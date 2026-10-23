@@ -98,13 +98,18 @@ header ul.links {
   list-style: none;
   padding: 0;
   margin: 0;
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 8px;
 }
 
+header ul.links li {
+  margin: 0;
+}
+
 header ul.links a {
-  display: inline-block;
+  display: block;
+  text-align: center;
   background-color: #111;
   color: #e6e6e6 !important;
   border: 1px solid #66aaff;
@@ -126,7 +131,21 @@ header ul.links a:hover {
 
 @media print, screen and (max-width: 960px) {
   header {
-    padding-bottom: 0;
+    padding: 0 0 20px !important;
+  }
+
+  // Theme draws light borders around the content on small screens
+  section {
+    border-color: #333 !important;
+  }
+
+  // Keep the link pills in one row under the name instead of pinned to the corner
+  header ul.links {
+    position: static;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
   }
 
   header .profile {
@@ -152,5 +171,26 @@ header ul.links a:hover {
   table:not(:has(img)) {
     display: block;
     overflow-x: auto;
+  }
+}
+
+/* ===== Small phones ===== */
+
+@media screen and (max-width: 400px) {
+  header .profile h1 {
+    font-size: 1.6rem;
+  }
+
+  header .avatar {
+    width: 72px;
+    height: 72px;
+  }
+
+  header ul.links {
+    gap: 6px;
+  }
+
+  header ul.links a {
+    padding: 5px 11px;
   }
 }

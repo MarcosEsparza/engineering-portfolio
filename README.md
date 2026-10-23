@@ -252,7 +252,7 @@ Thermo-fluids and mechanical systems lab work at UTPB (Fall 2025 – Spring 2026
 **Report:** [PDF](assets/docs/lab03-fluid-friction.pdf) • **Python reanalysis:** [write-up](projects/pipe-friction-analysis/)
 
 <p align="center">
-  <img src="assets/img/friction-factor.png" alt="Friction factor vs Reynolds number compared to Blasius correlation" width="450">
+  <img src="projects/pipe-friction-analysis/results/head_loss_scaling.png" alt="Head loss vs velocity on log-log axes for three pipes, from the Python reanalysis" width="450">
 </p>
 
 ---
