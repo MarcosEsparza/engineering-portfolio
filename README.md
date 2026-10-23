@@ -11,7 +11,7 @@ I am a Mechanical Engineering student at the University of Texas Permian Basin, 
 
 I am currently an **Engineering & Technology Intern at Baker Hughes** in Midland, TX, where I analyze electric submersible pump (ESP) performance, build and test Python engineering tools, and support dismantle, inspection, and failure analysis (DIFA) of returned pumps.
 
-From August 2024 to June 2026, I was **Aerodynamic Design Lead** for the Falcon Aeronautics & Space Team (FAST), leading fin-can and aerodynamic design for the team's 10,000-ft competition rocket, flown at IREC and the Lone Star Cup. I now mentor the team on rocket design and subsystem integration, and I am working on my senior design project, a 3D printing filament extruder.
+From August 2024 to June 2026, I was **Aerodynamic Design Lead** for the Falcon Aeronautics & Space Team (FAST), leading fin-can and aerodynamic design for the team's 10,000-ft competition rocket, flown at IREC and the Texas Shootout. I now mentor the team on rocket design and subsystem integration, and I am working on my senior design project, a 3D printing filament extruder.
 
 I am looking for engineering roles where analysis, testing, and hardware come together, especially in energy, production, and fluid systems.
 
@@ -58,23 +58,30 @@ I am looking for engineering roles where analysis, testing, and hardware come to
 
 ### Summary
 
-Led aerodynamic and fin-can design for **Icarus I**, FAST's 10,000-ft collegiate competition rocket (IREC Team 48), flown at the Intercollegiate Rocket Engineering Competition (IREC) and the Lone Star Cup. The design was driven by real flight constraints: stable transonic flight, manufacturable hardware, clean subsystem integration, reliable recovery packaging, and enough flutter margin at peak velocity.
+Led aerodynamic and fin-can design for **Icarus I**, FAST's 10,000-ft collegiate competition rocket (IREC Team 48), flown at the Intercollegiate Rocket Engineering Competition (IREC) and the Texas Shootout. The design was driven by real flight constraints: stable transonic flight, manufacturable hardware, clean subsystem integration, reliable recovery packaging, and enough flutter margin at peak velocity.
 
 ### Flight Results
 
-- Telemetry-verified flights reached **8,869 ft at IREC** and **9,442 ft at the Lone Star Cup**.
+- Telemetry-verified flights reached **8,869 ft at IREC** and **9,442 ft at the Texas Shootout**.
 - Coordinated airframe integration with the propulsion and recovery subteams for both flights.
 
 ### Launch
 
 <div class="video-row">
   <figure class="wide">
-    <video controls muted playsinline preload="none" poster="assets/img/irec-liftoff-drone-poster.jpg"><source src="assets/video/irec-liftoff-drone.mp4" type="video/mp4"></video>
-    <figcaption>Liftoff (drone view, slow motion)</figcaption>
+    <video controls muted playsinline preload="none" poster="assets/img/irec-launch-esra-poster.jpg"><source src="assets/video/irec-launch-esra-stream.mp4" type="video/mp4"></video>
+    <figcaption>IREC at Spaceport America: Team 48 on the pad and climb-out (ESRA livestream footage)</figcaption>
+  </figure>
+</div>
+
+<div class="video-row">
+  <figure class="wide">
+    <video controls muted playsinline preload="none" poster="assets/img/texas-shootout-liftoff-drone-poster.jpg"><source src="assets/video/texas-shootout-liftoff-drone.mp4" type="video/mp4"></video>
+    <figcaption>Texas Shootout: liftoff (drone view, slow motion)</figcaption>
   </figure>
   <figure class="tall">
-    <video controls muted playsinline preload="none" poster="assets/img/irec-launch-ground-poster.jpg"><source src="assets/video/irec-launch-ground.mp4" type="video/mp4"></video>
-    <figcaption>Climb-out (4× slow motion)</figcaption>
+    <video controls muted playsinline preload="none" poster="assets/img/texas-shootout-climb-out-poster.jpg"><source src="assets/video/texas-shootout-climb-out.mp4" type="video/mp4"></video>
+    <figcaption>Texas Shootout: climb-out (4× slow motion)</figcaption>
   </figure>
 </div>
 
@@ -94,14 +101,16 @@ Co-authored the team's technical poster, *Design of Icarus I: A Student-Develope
 - Integrated recovery, internal structure, and avionics packaging into a single CAD workflow.
 - Kept design decisions traceable through organized simulation, CAD, and GitHub records.
 
-### Pre-Flight Simulation — L1500T
+### Pre-Flight Simulation — L2500ST
+
+OpenRocket simulation of the design iteration used for the fin flutter analysis below.
 
 | Parameter | Value |
 |---|---|
-| Apogee | 10,990 ft |
-| Maximum velocity | 1,191 ft/s (Mach 1.077) |
-| Maximum acceleration | 431 ft/s² |
-| Static stability margin | 2.76 cal |
+| Apogee | 11,118 ft |
+| Maximum velocity | 1,146 ft/s (Mach 1.04) |
+| Maximum acceleration | 711 ft/s² |
+| Static stability margin | 2.44 cal |
 
 ![FAST 10k COTS rocket in OpenRocket with aluminum fin can](assets/img/irec-rocket-openrocket.png)
 
