@@ -28,7 +28,7 @@ This file is excluded from the published site (see `_config.yml`), so it is only
 - [ ] Consider trimming Supporting Work to the strongest items once newer projects are added
 
 ## Before graduation (urgent)
-- [ ] Resume still says "Lone Star Cup" for the 9,442 ft flight; change to "Texas Shootout" and replace `assets/img/MarcosEsparza_Resume.pdf`
+- [x] Resume updated to "Texas Shootout" for the 9,442 ft flight and replaced at `assets/img/MarcosEsparza_Resume.pdf`
 - [ ] Switch from `esparza_m58311@utpb.edu` to a personal email on all three:
   - [ ] Site: `_config.yml` (`email:`) and the Contact section in `README.md`
   - [ ] Resume: edit the source file, export, and replace `assets/img/MarcosEsparza_Resume.pdf` (same name)
