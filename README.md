@@ -31,6 +31,10 @@ I am looking for engineering roles where analysis, testing, and hardware come to
 **Dates:** May 2026 – Present  
 **Tools:** Python (pandas, NumPy, Matplotlib, SciPy, pytest), Git/GitHub, Excel
 
+<p align="center">
+  <img src="assets/img/baker-hughes-midland.jpg" alt="Baker Hughes facility in Midland, Texas" width="450">
+</p>
+
 **ESP Performance Analysis**
 - Developed a preliminary methodology for evaluating returned electric submersible pump (ESP) performance across seven newer-versus-legacy product-family comparisons, using shop PIT measurements of head, horsepower, efficiency, and vibration.
 - Evaluated field oil, water, and gas production data separately as operating context.
@@ -106,9 +110,13 @@ I wrote a MATLAB tool that reads the OpenRocket trajectory, finds the maximum-ve
 
 The vehicle went from simulation and CAD to fabricated, flight-ready hardware.
 
-| Fin can | Airframe integration | Nose cone |
+| Fin can | Fin can with motor retainer | Nose cone |
 |:---:|:---:|:---:|
-| ![Fabricated aluminum fin can installed on fiberglass airframe](assets/img/fin-can-fabricated.jpg) | ![Bonded airframe section during fabrication](assets/img/airframe-integration.jpg) | ![Fiberglass nose cone with metallic tip](assets/img/nose-cone.jpg) |
+| ![Fabricated aluminum fin can installed on fiberglass airframe](assets/img/fin-can-fabricated.jpg) | ![Assembled aluminum fin can with motor retainer at the aft end](assets/img/fin-can-motor-retainer.jpg) | ![Fiberglass nose cone with metallic tip](assets/img/nose-cone.jpg) |
+
+| Airframe integration | Rail button | Recovery bulkhead |
+|:---:|:---:|:---:|
+| ![Bonded airframe section during fabrication](assets/img/airframe-integration.jpg) | ![Rail button installed on the airframe along a marked alignment line](assets/img/rail-button.jpg) | ![Bulkhead with eyebolt for the recovery harness](assets/img/recovery-bulkhead.jpg) |
 
 ---
 
