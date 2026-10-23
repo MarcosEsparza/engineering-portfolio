@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <div class="profile">
+          {% if site.logo %}
+            <img class="avatar" src="{{ site.logo | relative_url }}" alt="Photo of {{ site.title }}" />
+          {% endif %}
+          <div>
+            <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+            <p class="tagline">{{ site.tagline }}</p>
+          </div>
+        </div>
+
+        <ul class="links">
+          <li><a href="{{ site.resume | relative_url }}">Resume</a></li>
+          <li><a href="{{ site.linkedin }}">LinkedIn</a></li>
+          <li><a href="mailto:{{ site.email }}">Email</a></li>
+          {% if site.github.repository_url %}
+          <li><a href="{{ site.github.repository_url }}">GitHub</a></li>
+          {% endif %}
+        </ul>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+  </body>
+</html>

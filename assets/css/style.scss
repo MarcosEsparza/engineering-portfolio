@@ -17,11 +17,6 @@ body {
   color: #e8e8e8 !important;
 }
 
-// Sidebar links
-.sidebar a {
-  color: #66aaff !important;
-}
-
 // Main content links
 a {
   color: #66aaff !important;
@@ -40,37 +35,112 @@ pre, code {
 
 // Fix bold text visibility
 strong, b {
-  color: #f5f5f5 !important;  
-  font-weight: 700 !important; 
+  color: #f5f5f5 !important;
+  font-weight: 700 !important;
 }
 
-/* ===== Sidebar "Download" / "View on GitHub" buttons ===== */
-
-.downloads {
-  margin-top: -6px !important;         /* moves the pills UP */
-  margin-left: -4px !important;        /* moves them LEFT */
-  text-align: left !important;
-  background: transparent !important;  /* remove white background */
-  box-shadow: none !important;         /* remove outline */
-  border: none !important;             /* remove border */
+// Tables
+table {
+  width: 100%;
+  table-layout: fixed;
 }
 
-.downloads a {
-  background-color: #111 !important;       /* dark background */
+th, td {
+  border-bottom: 1px solid #333 !important;
+  color: #e8e8e8;
+}
+
+th {
+  color: #f5f5f5 !important;
+}
+
+hr {
+  background: #333 !important;
+}
+
+// Keep images and video inside the column on every screen size
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+td img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+/* ===== Sidebar profile ===== */
+
+header .profile h1 {
+  margin-bottom: 4px;
+}
+
+header .avatar {
+  display: block;
+  width: 100%;
+  max-width: 270px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+
+header .tagline {
+  color: #b8b8b8;
+  margin: 0 0 16px;
+}
+
+/* ===== Sidebar link pills ===== */
+
+header ul.links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+header ul.links a {
+  display: inline-block;
+  background-color: #111;
   color: #e6e6e6 !important;
-  border: 1px solid #66aaff !important;
-  border-radius: 999px !important;         /* pill shape */
-  padding: 8px 14px !important;
-  display: inline-block !important;
-  margin: -6px 0 0 4px !important;        /* UP & RIGHT adjustment */
-  font-size: 0.85rem !important;
-  text-decoration: none !important;
-  transition: 0.2s ease-in-out !important;
+  border: 1px solid #66aaff;
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 0.85rem;
+  text-decoration: none;
+  transition: 0.2s ease-in-out;
 }
 
-.downloads a:hover {
-  background-color: #222 !important;        /* hover shade */
-  color: #ffffff !important;                /* brighter text */
-  border-color: #99c5ff !important;         /* hover outline */
-  transform: translateY(-2px) !important;   /* lift effect */
+header ul.links a:hover {
+  background-color: #222;
+  color: #fff !important;
+  border-color: #99c5ff;
+  transform: translateY(-2px);
+}
+
+/* ===== Mobile: compact header with a small photo next to the name ===== */
+
+@media print, screen and (max-width: 960px) {
+  header {
+    padding-bottom: 0;
+  }
+
+  header .profile {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+
+  header .avatar {
+    width: 88px;
+    height: 88px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0;
+  }
+
+  header .tagline {
+    margin: 0;
+  }
 }

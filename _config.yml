@@ -1,11 +1,19 @@
-title: Marcos Esparza 
-logo: /assets/img/LinkedIn Profile Pic.PNG
-description: Mobile Tip → For the clearest layout on this portfolio, use desktop mode or slightly zoom in on mobile.
-show_downloads: true
+title: Marcos Esparza
+description: Mechanical Engineering student (Dec 2026) and Engineering & Technology Intern at Baker Hughes. Energy systems, thermo-fluids, experimental testing, and rocket design.
+logo: /assets/img/profile.jpg
+lang: en-US
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-seo-tag
 sass:
   style: compressed
+
+# Sidebar links (used by _layouts/default.html)
+tagline: Mechanical Engineering · B.S. Dec 2026
+resume: /assets/img/MarcosEsparza_Resume.pdf
+email: esparza_m58311@utpb.edu
+linkedin: https://www.linkedin.com/in/marcos-v-esparza/
+
 exclude:
 - ROADMAP.md
