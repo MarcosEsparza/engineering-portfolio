@@ -42,7 +42,7 @@ I am looking for engineering roles where analysis, testing, and hardware come to
 
 **ESP Design Intelligence**
 - Developed and verified a local Python application that organizes historical ESP installations, equipment, and available operating evidence for application-engineering design reviews.
-- Defined requirements, comparison logic, and software tests and continue refining the workflow through engineer feedback.
+- Defined the requirements, comparison logic, and software tests; continuing to refine the workflow based on engineer feedback.
 
 **Equipment Inspection & Failure Investigation**
 - Supported dismantle, inspection, and failure analysis (DIFA) of ESPs through hands-on component disassembly, cleaning, and inspection.
