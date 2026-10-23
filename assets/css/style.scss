@@ -73,6 +73,41 @@ td img {
   border-radius: 6px;
 }
 
+// Side-by-side videos that stack on narrow screens
+.video-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.video-row figure {
+  margin: 0;
+  text-align: center;
+}
+
+.video-row .wide {
+  flex: 1 1 280px;
+}
+
+.video-row .tall {
+  flex: 0 1 160px;
+}
+
+.video-row video {
+  display: block;
+  width: 100%;
+  border-radius: 6px;
+}
+
+.video-row figcaption {
+  color: #b8b8b8;
+  font-size: 0.85rem;
+  margin-top: 6px;
+}
+
 /* ===== Sidebar profile ===== */
 
 header .profile h1 {

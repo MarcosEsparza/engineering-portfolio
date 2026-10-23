@@ -20,7 +20,8 @@ This file is excluded from the published site (see `_config.yml`), so it is only
 ## Content to add
 - [ ] **Senior design:** add CAD screenshots, a calc summary (torque/heater sizing), and progress photos as the project develops
 - [ ] **Baker Hughes:** optionally add a "what I learned" paragraph (no data, plots, or internal tool names)
-- [ ] **IREC flights:** add launch photos/video, an altimeter or telemetry altitude plot, and a sim-vs-actual comparison (sim: 10,990 ft vs. actual 8,869 / 9,442 ft) with a short explanation of the difference
+- [x] **IREC launch videos and technical poster** added (Oct 2026)
+- [ ] **IREC flights:** add an altimeter or telemetry altitude plot, and a sim-vs-actual comparison (sim: 10,990 ft vs. actual 8,869 / 9,442 ft) with a short explanation of the difference
 - [ ] **Pump and compressor labs (Spring 2026):** add a report or plot for the centrifugal/gear pump and reciprocating compressor testing
 - [x] **Python project:** pipe friction reanalysis (`projects/pipe-friction-analysis`)
 - [ ] **Level 2 rocket:** update with build progress and the flight result once certified, then update Certifications

@@ -1,7 +1,7 @@
 # Engineering Portfolio
 Mechanical engineering student and Engineering & Technology Intern at Baker Hughes, working where analysis, testing, and hardware meet: pump performance, thermo-fluids, and competition rocketry.
 
-[About](#about-me) • [Resume](#resume) • [Experience](#engineering-experience) • [Featured Project](#featured-project--irec-competition-rocket) • [Projects](#selected-engineering-projects) • [Lab Work](#featured-lab-reports) • [Skills](#skills) • [Contact](#contact)
+[About](#about-me) • [Resume](#resume) • [Experience](#engineering-experience) • [Featured Project](#featured-project--icarus-i-irec-competition-rocket) • [Projects](#selected-engineering-projects) • [Lab Work](#featured-lab-reports) • [Skills](#skills) • [Contact](#contact)
 
 ---
 
@@ -50,7 +50,7 @@ I am looking for engineering roles where analysis, testing, and hardware come to
 
 ---
 
-## Featured Project — IREC Competition Rocket
+## Featured Project — Icarus I (IREC Competition Rocket)
 
 **Role:** Aerodynamic Design Lead (Aug 2024 – Jun 2026); Mentor (Jun 2026 – Present)  
 **Team:** Falcon Aeronautics & Space Team (FAST), UTPB  
@@ -58,12 +58,33 @@ I am looking for engineering roles where analysis, testing, and hardware come to
 
 ### Summary
 
-Led aerodynamic and fin-can design for FAST's 10,000-ft collegiate competition rocket, flown at the Intercollegiate Rocket Engineering Competition (IREC) and the Lone Star Cup. The design was driven by real flight constraints: stable transonic flight, manufacturable hardware, clean subsystem integration, reliable recovery packaging, and enough flutter margin at peak velocity.
+Led aerodynamic and fin-can design for **Icarus I**, FAST's 10,000-ft collegiate competition rocket (IREC Team 48), flown at the Intercollegiate Rocket Engineering Competition (IREC) and the Lone Star Cup. The design was driven by real flight constraints: stable transonic flight, manufacturable hardware, clean subsystem integration, reliable recovery packaging, and enough flutter margin at peak velocity.
 
 ### Flight Results
 
 - Telemetry-verified flights reached **8,869 ft at IREC** and **9,442 ft at the Lone Star Cup**.
 - Coordinated airframe integration with the propulsion and recovery subteams for both flights.
+
+### Launch
+
+<div class="video-row">
+  <figure class="wide">
+    <video controls muted playsinline preload="none" poster="assets/img/irec-liftoff-drone-poster.jpg"><source src="assets/video/irec-liftoff-drone.mp4" type="video/mp4"></video>
+    <figcaption>Liftoff (drone view, slow motion)</figcaption>
+  </figure>
+  <figure class="tall">
+    <video controls muted playsinline preload="none" poster="assets/img/irec-launch-ground-poster.jpg"><source src="assets/video/irec-launch-ground.mp4" type="video/mp4"></video>
+    <figcaption>Climb-out (4× slow motion)</figcaption>
+  </figure>
+</div>
+
+### Technical Poster
+
+Co-authored the team's technical poster, *Design of Icarus I: A Student-Developed Transonic Fiberglass Launch Vehicle Optimized for 10,000-ft Flight Using OpenRocket and Computational Analysis*, presented at IREC.
+
+<p align="center">
+  <img src="assets/img/irec-poster.jpg" alt="Icarus I technical poster presented by UTPB Team 48 at IREC" width="560">
+</p>
 
 ### What I Did
 
