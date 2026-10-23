@@ -15,5 +15,12 @@ resume: /assets/img/MarcosEsparza_Resume.pdf
 email: esparza_m58311@utpb.edu
 linkedin: https://www.linkedin.com/in/marcos-v-esparza/
 
+# Default link-preview image (LinkedIn, iMessage, etc.)
+defaults:
+- scope:
+    path: ""
+  values:
+    image: /assets/img/social-preview.png
+
 exclude:
 - ROADMAP.md
