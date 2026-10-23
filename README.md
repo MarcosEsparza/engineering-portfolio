@@ -41,8 +41,8 @@ I am looking for engineering roles where analysis, testing, and hardware come to
 - Applied runtime-matched and geographically controlled comparisons, validated outputs, reconciled engineering data, and presented findings, assumptions, and limitations to product-line engineers.
 
 **ESP Design Intelligence**
-- Defined engineering requirements and comparison logic, developed and verified Python workflows, and wrote software tests for an application used by application engineers in design reviews.
-- Continuing to refine the tool based on engineering feedback.
+- Developed and verified a local Python application that organizes historical ESP installations, equipment, and available operating evidence for application-engineering design reviews.
+- Defined requirements, comparison logic, and software tests and continue refining the workflow through engineer feedback.
 
 **Equipment Inspection & Failure Investigation**
 - Supported dismantle, inspection, and failure analysis (DIFA) of ESPs through hands-on component disassembly, cleaning, and inspection.
@@ -161,8 +161,8 @@ The vehicle went from simulation and CAD to fabricated, flight-ready hardware.
 **Dates:** Aug 2026 – Present  
 **Tools:** SOLIDWORKS, hand calculations
 
-- Performed preliminary torque, power, gearing, extrusion-force, heater-sizing, heat-transfer, and shaft-loading calculations to guide motor selection.
-- Developed motor CAD in SOLIDWORKS.
+- Performed torque, power, gearing, extrusion-force, heater-sizing, heat-transfer, and shaft-loading calculations to guide motor selection.
+- Developed SOLIDWORKS designs for the motor assembly, hopper, auger, barrel, baseplates, and control-board brackets.
 - Documented prototype manufacturing plans.
 
 ---
