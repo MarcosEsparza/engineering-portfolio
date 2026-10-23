@@ -1,7 +1,7 @@
 # Engineering Portfolio  
 Mechanical Engineering Student | Energy Systems | Thermo-Fluids | Experimental Testing | Applied Design
 
-[About](#about-me) • [Resume](#resume) • [Featured Project](#featured-project--irec-2026) • [Projects](#selected-engineering-projects) • [Skills](#skills) • [Contact](#contact)
+[About](#about-me) • [Resume](#resume) • [Experience](#engineering-experience) • [Featured Project](#featured-project--irec-2026) • [Projects](#selected-engineering-projects) • [Lab Reports](#featured-lab-reports) • [Skills](#skills) • [Contact](#contact)
 
 ---
 
@@ -9,33 +9,69 @@ Mechanical Engineering Student | Energy Systems | Thermo-Fluids | Experimental T
 
 I am a Mechanical Engineering student at the University of Texas Permian Basin, graduating in December 2026, with a technical focus on energy systems, thermo-fluids, experimental testing, and mechanical design. My work is centered on connecting engineering analysis to real hardware, measured data, and practical system performance.
 
-I currently serve as Aerodynamic Design Lead for the Falcon Aeronautics & Space Team, where I am leading fin-can and aerodynamic development for a 10,000-ft competition rocket for the Spaceport America Cup and Lone Star Cup. My responsibilities include stability and flutter analysis, CAD integration, and making sure the design is manufacturable, flight-ready, and well documented.
+I am currently an Engineering & Technology Intern at Baker Hughes in Midland, TX, where I work on electric submersible pump (ESP) performance analysis, Python-based engineering tools, and dismantle, inspection, and failure analysis (DIFA) of returned pumps.
 
-My laboratory and project experience includes cross-flow heat exchangers, fluid friction and bend losses, flow-measurement devices, transient cooling, turbomachinery performance, and rocket flight design. Across these projects, I have developed experience in pressure-drop analysis, heat transfer, data reduction, test interpretation, and engineering decision-making.
+From August 2024 to June 2026, I served as Aerodynamic Design Lead for the Falcon Aeronautics & Space Team (FAST), leading fin-can and aerodynamic development for the team's 10,000-ft competition rocket flown at IREC and the Lone Star Cup. I now mentor team members on rocket design and subsystem integration. This semester I am also working on my senior design project, a 3D printing filament extruder.
+
+My laboratory and project experience includes pumps and compressors, cross-flow heat exchangers, fluid friction and bend losses, flow-measurement devices, transient cooling, turbomachinery performance, and rocket flight design. Across these projects, I have developed experience in pressure-drop analysis, heat transfer, data reduction, test interpretation, and engineering decision-making.
 
 I am especially interested in engineering roles where analysis, testing, and hardware come together, particularly in energy, production, and fluid-based systems.
 
 ---
 
+## Resume
+
+📄 **[Download my resume (PDF)](assets/img/MarcosEsparza_Resume.pdf)**
+
+---
+
+## Engineering Experience
+
+### Baker Hughes — Engineering & Technology Intern
+
+**Location:** Midland, TX  
+**Dates:** May 2026 – Present  
+**Tools:** Python (pandas, NumPy, Matplotlib, SciPy, pytest), Git/GitHub, Excel
+
+**ESP Performance Analysis**
+- Developed a preliminary methodology for evaluating the performance of returned electric submersible pumps (ESPs) across seven newer-versus-legacy product-family comparisons, using shop PIT measurements of head, horsepower, efficiency, and vibration.
+- Evaluated field oil, water, and gas production data separately as operating context.
+- Applied runtime-matched and geographically controlled comparisons, validated outputs, reconciled engineering data, and presented findings, assumptions, and limitations to product-line engineers.
+
+**ESP Design Intelligence**
+- Defined engineering requirements and comparison logic, developed and verified Python workflows, and wrote software tests for an application used by application engineers in design reviews.
+- Continuing to refine the tool based on engineering feedback.
+
+**Equipment Inspection & Failure Investigation**
+- Supported dismantle, inspection, and failure analysis (DIFA) of ESPs through hands-on component disassembly, cleaning, and inspection.
+- Reviewed evidence of wear and discussed potential failure mechanisms with engineers, customers, and consultants.
+
+---
+
 ## Featured Project — IREC 2026
 
-**Role:** Aerodynamic Design Lead  
+**Role:** Aerodynamic Design Lead (Aug 2024 – Jun 2026); Mentor (Jun 2026 – Present)  
 **Team:** Falcon Aeronautics & Space Team, UTPB  
 **Tools:** SOLIDWORKS, MATLAB, OpenRocket, Excel
 
 ### Project Summary
 
-Leading aerodynamic and fin-can development for a 10,000-ft collegiate competition rocket designed for the Intercollegiate Rocket Engineering Competition (IREC). The project is being developed around real flight constraints: stable transonic performance, manufacturable hardware, clean subsystem integration, reliable recovery packaging, and sufficient flutter margin at expected peak velocity.
+Led aerodynamic and fin-can development for FAST's 10,000-ft collegiate competition rocket, flown at the Intercollegiate Rocket Engineering Competition (IREC) and the Lone Star Cup. The design was built around real flight constraints: stable transonic performance, manufacturable hardware, clean subsystem integration, reliable recovery packaging, and sufficient flutter margin at expected peak velocity.
+
+### Flight Results
+
+- Telemetry-verified flights reached approximately **8,800 ft** and **9,300 ft**.
+- Coordinated airframe integration with the propulsion and recovery subteams for both flights.
 
 ### Engineering Scope
 
 - Designed fin geometry and evaluated aerodynamic stability using MATLAB and OpenRocket.
-- Developed a modular **4.02 in fiberglass airframe and aluminum fin-can architecture** in SOLIDWORKS.
-- Performed preliminary fin flutter analysis with a target of **at least 1.5× maximum flight velocity margin**.
+- Developed a modular **4.02 in fiberglass airframe and aluminum fin-can architecture** in SOLIDWORKS, including manufacturing drawings.
+- Performed fin flutter analysis with a target of **at least 1.5× maximum flight velocity margin**.
 - Integrated recovery, internal structure, and avionics packaging into a unified CAD workflow.
 - Supported technical documentation and design traceability through organized simulation, CAD, and GitHub records.
 
-### Current Flight Simulation — L1500T
+### Pre-Flight Simulation — L1500T
 
 - **Apogee:** 10,990 ft  
 - **Maximum velocity:** 1,191 ft/s (Mach 1.077)  
@@ -63,7 +99,7 @@ Isometric view:
 
 ### Hardware Build Progress
 
-The IREC vehicle has progressed from simulation and CAD into physical hardware fabrication and subsystem integration. These images show actual progress on the rocket’s fin can, airframe assembly, and nose cone hardware.
+The IREC vehicle went from simulation and CAD to fabricated, flight-ready hardware. These images show the rocket's fin can, airframe assembly, and nose cone hardware during the build.
 
 **Fabricated fin can assembly**
 
@@ -99,6 +135,18 @@ The IREC vehicle has progressed from simulation and CAD into physical hardware f
 
 ## Selected Engineering Projects
 
+### 3D Printing Filament Extruder — Senior Design (In Progress)
+
+**Phase:** Preliminary Design  
+**Dates:** Aug 2026 – Present  
+**Tools:** SOLIDWORKS, hand calculations
+
+- Performed preliminary torque, power, gearing, extrusion-force, heater-sizing, heat-transfer, and shaft-loading calculations to guide motor selection.
+- Developed motor CAD in SOLIDWORKS.
+- Documented prototype manufacturing plans.
+
+---
+
 ### Level 1 High-Power Rocket Certification
 
 **Role:** Designer and Builder  
@@ -133,7 +181,7 @@ The IREC vehicle has progressed from simulation and CAD into physical hardware f
 
 ## Featured Lab Reports
 
-A selection of projects most relevant to thermo-fluids, energy systems, and experimental analysis.
+A selection of projects most relevant to thermo-fluids, energy systems, and experimental analysis. In Spring 2026, my thermo-fluids and mechanical systems lab work also included centrifugal and gear pump testing and reciprocating compressor testing using dynamometer instrumentation and data acquisition.
 
 ### Performance Analysis of a Turbojet Engine (SR-30 Mini-Lab)
 
@@ -249,7 +297,7 @@ A selection of projects most relevant to thermo-fluids, energy systems, and expe
 
 - **Impact: Charpy and Izod**  
   Compared absorbed energy and fracture behavior for multiple 3D-printed polymers.  
-  **Report:** [PDF](assets/img/Lab9-Impact%20Charpy%20and%20Izod.pdf)
+  **Report:** [PDF](assets/img/Lab9-Impact-Charpy%20and%20Izod.pdf)
 
 - **Torsion Test**  
   Evaluated torque-angle response, shear modulus, and elastic-plastic shaft behavior.  
@@ -259,20 +307,31 @@ A selection of projects most relevant to thermo-fluids, energy systems, and expe
 
 ## Skills
 
+### Programming and Data
+- Python (pandas, NumPy, Matplotlib, SciPy, pytest)
+- MATLAB
+- Git / GitHub
+
 ### Engineering Software
 - SOLIDWORKS
-- MATLAB
 - OpenRocket
 - Excel
 - LabVIEW / DAQ systems
 
 ### Analysis and Testing
 - Experimental data reduction
+- Pump and compressor testing with dynamometer instrumentation
 - Pressure-drop and head-loss analysis
 - Heat-transfer analysis
 - Turbomachinery performance calculations
-- Flow measurement and instrumentation
+- Pressure and flow measurement and instrumentation
 - Engineering plotting and technical reporting
+
+### Fabrication
+- Basic machining and hand tools
+- 3D printing
+- Epoxy layups
+- Rocket assembly and avionics integration
 
 ### Design and Domain Areas
 - Thermo-fluids and energy systems
@@ -282,6 +341,7 @@ A selection of projects most relevant to thermo-fluids, energy systems, and expe
 - Mechanical design for manufacturable hardware
 
 ### Certifications
+- Basin United
 - National Association of Rocketry (NAR) Level 1 High-Power Certification
 - Level 2 High-Power Certification in progress
 
@@ -289,8 +349,10 @@ A selection of projects most relevant to thermo-fluids, energy systems, and expe
 
 ## Organizations
 
+- Falcon Aeronautics & Space Team (FAST) – Mentor
 - ASME – Student Member
 - AIAA – Student Member
+- Society of Petroleum Engineers (SPE) – Student Member
 - National Association of Rocketry – Student Member
 - Tripoli Rocketry Association – Student Member
 
@@ -301,4 +363,6 @@ A selection of projects most relevant to thermo-fluids, energy systems, and expe
 - **Email:** esparza_m58311@utpb.edu  
 - **LinkedIn:** [linkedin.com/in/marcos-v-esparza](https://www.linkedin.com/in/marcos-v-esparza/)
 
-[Back to Top](#marcos-esparza--engineering-portfolio)
+- **Resume:** [PDF](assets/img/MarcosEsparza_Resume.pdf)
+
+[Back to Top](#engineering-portfolio)
