@@ -26,6 +26,12 @@ This file is excluded from the published site (see `_config.yml`), so it is only
 - [ ] **Level 2 rocket:** update with build progress and the flight result once certified, then update Certifications
 - [ ] Consider trimming Supporting Work to the strongest items once newer projects are added
 
+## Before graduation (urgent)
+- [ ] Switch from `esparza_m58311@utpb.edu` to a personal email on all three:
+  - [ ] Site: `_config.yml` (`email:`) and the Contact section in `README.md`
+  - [ ] Resume: edit the source file, export, and replace `assets/img/MarcosEsparza_Resume.pdf` (same name)
+  - [ ] LinkedIn: Contact info → email (verification code may land in spam; try "resend" or the LinkedIn app)
+
 ## End of semester
 - [ ] Change "B.S. Dec 2026" to "B.S. Mechanical Engineering, Dec 2026" (graduated) and update the headline for job search
 - [ ] Replace `assets/img/MarcosEsparza_Resume.pdf` with the final resume (keep the same file name so links don't break)
