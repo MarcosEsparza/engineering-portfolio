@@ -58,7 +58,7 @@ Led aerodynamic and fin-can design for FAST's 10,000-ft collegiate competition r
 
 ### Flight Results
 
-- Telemetry-verified flights reached approximately **8,800 ft** and **9,300 ft**.
+- Telemetry-verified flights reached **8,869 ft at IREC** and **9,442 ft at the Lone Star Cup**.
 - Coordinated airframe integration with the propulsion and recovery subteams for both flights.
 
 ### What I Did

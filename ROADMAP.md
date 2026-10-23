@@ -6,7 +6,7 @@ This file is excluded from the published site (see `_config.yml`), so it is only
 ## Done (Oct 2026)
 - [x] Replace resume PDF with the Fall 2026 version and link it from the site and sidebar
 - [x] Add Baker Hughes internship (Engineering Experience section)
-- [x] Update IREC project: past tense, flight results (~8,800 ft and ~9,300 ft), Mentor role
+- [x] Update IREC project: past tense, flight results (8,869 ft IREC, 9,442 ft Lone Star Cup), Mentor role
 - [x] Add MATLAB fin flutter/stability output and script to the IREC section
 - [x] Add senior design project (3D printing filament extruder)
 - [x] Update skills, certifications, and organizations to match the resume (Python, Git, SPE, Basin United)
@@ -20,7 +20,7 @@ This file is excluded from the published site (see `_config.yml`), so it is only
 ## Content to add
 - [ ] **Senior design:** add CAD screenshots, a calc summary (torque/heater sizing), and progress photos as the project develops
 - [ ] **Baker Hughes:** optionally add a "what I learned" paragraph (no data, plots, or internal tool names)
-- [ ] **IREC flights:** add launch photos/video, an altimeter or telemetry altitude plot, and a sim-vs-actual comparison (sim: 10,990 ft vs. actual ~8,800 / ~9,300 ft) with a short explanation of the difference
+- [ ] **IREC flights:** add launch photos/video, an altimeter or telemetry altitude plot, and a sim-vs-actual comparison (sim: 10,990 ft vs. actual 8,869 / 9,442 ft) with a short explanation of the difference
 - [ ] **Pump and compressor labs (Spring 2026):** add a report or plot for the centrifugal/gear pump and reciprocating compressor testing
 - [ ] **Python project:** add a small public example of a Python data-analysis workflow (e.g., reprocess one of the lab datasets with pandas/Matplotlib) and link it from Skills
 - [ ] **Level 2 rocket:** update with build progress and the flight result once certified, then update Certifications
