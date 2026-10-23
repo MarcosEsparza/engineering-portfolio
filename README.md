@@ -132,7 +132,7 @@ The vehicle went from simulation and CAD to fabricated, flight-ready hardware.
 
 - Rebuilt my H408 fluid friction lab analysis as a small tested Python package from the report's raw data.
 - Used one friction-factor convention throughout, solved Colebrook numerically, and propagated measurement uncertainty to every point.
-- Found that the original report's rough-pipe "agreement" came from comparing Fanning and Darcy friction factors, and traced the remaining gap to a likely test-length error.
+- Found that the original rough-pipe comparison mixed Fanning and Darcy friction factors, and traced the remaining gap to a likely test-length error.
 
 **Write-up:** [Pipe friction reanalysis](projects/pipe-friction-analysis/) • **Code:** [GitHub](https://github.com/MarcosEsparza/engineering-portfolio/tree/main/projects/pipe-friction-analysis)
 
