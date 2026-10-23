@@ -42,6 +42,10 @@ strong, b {
 // Tables
 table {
   width: 100%;
+}
+
+// Photo grids get equal-width columns
+table:has(img) {
   table-layout: fixed;
 }
 
@@ -142,5 +146,11 @@ header ul.links a:hover {
 
   header .tagline {
     margin: 0;
+  }
+
+  // Wide data tables scroll inside their own box instead of the whole page
+  table:not(:has(img)) {
+    display: block;
+    overflow-x: auto;
   }
 }

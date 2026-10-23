@@ -1,5 +1,5 @@
 # Engineering Portfolio
-Mechanical Engineering (B.S., Dec 2026) | Engineering & Technology Intern, Baker Hughes | Energy Systems | Thermo-Fluids | Testing | Design
+Mechanical engineering student and Engineering & Technology Intern at Baker Hughes, working where analysis, testing, and hardware meet: pump performance, thermo-fluids, and competition rocketry.
 
 [About](#about-me) • [Resume](#resume) • [Experience](#engineering-experience) • [Featured Project](#featured-project--irec-competition-rocket) • [Projects](#selected-engineering-projects) • [Lab Work](#featured-lab-reports) • [Skills](#skills) • [Contact](#contact)
 
@@ -126,6 +126,22 @@ The vehicle went from simulation and CAD to fabricated, flight-ready hardware.
 
 ---
 
+### Pipe Friction Reanalysis in Python
+
+**Tools:** Python (pandas, NumPy, SciPy, Matplotlib, pytest), GitHub Actions
+
+- Rebuilt my H408 fluid friction lab analysis as a small tested Python package from the report's raw data.
+- Used one friction-factor convention throughout, solved Colebrook numerically, and propagated measurement uncertainty to every point.
+- Found that the original report's rough-pipe "agreement" came from comparing Fanning and Darcy friction factors, and traced the remaining gap to a likely test-length error.
+
+**Write-up:** [Pipe friction reanalysis](projects/pipe-friction-analysis/) • **Code:** [GitHub](https://github.com/MarcosEsparza/engineering-portfolio/tree/main/projects/pipe-friction-analysis)
+
+<p align="center">
+  <img src="projects/pipe-friction-analysis/results/friction_factor_vs_re.png" alt="Friction factor vs Reynolds number with uncertainty bars for three pipes" width="450">
+</p>
+
+---
+
 ### Level 1 High-Power Rocket Certification
 
 **Role:** Designer and Builder  
@@ -233,7 +249,7 @@ Thermo-fluids and mechanical systems lab work at UTPB (Fall 2025 – Spring 2026
 - Calculated Reynolds number, head loss, and minor loss coefficients.
 - Compared results with Moody and Blasius correlations.
 
-**Report:** [PDF](assets/docs/lab03-fluid-friction.pdf)
+**Report:** [PDF](assets/docs/lab03-fluid-friction.pdf) • **Python reanalysis:** [write-up](projects/pipe-friction-analysis/)
 
 <p align="center">
   <img src="assets/img/friction-factor.png" alt="Friction factor vs Reynolds number compared to Blasius correlation" width="450">
@@ -255,7 +271,7 @@ Thermo-fluids and mechanical systems lab work at UTPB (Fall 2025 – Spring 2026
 
 ## Skills
 
-**Programming & Data:** Python (pandas, NumPy, Matplotlib, SciPy, pytest), MATLAB, Git/GitHub  
+**Programming & Data:** Python (pandas, NumPy, Matplotlib, SciPy, pytest; [example project](projects/pipe-friction-analysis/)), MATLAB, Git/GitHub  
 **Software:** SOLIDWORKS, OpenRocket, Excel, LabVIEW / DAQ  
 **Test & Lab:** Pump and compressor testing, dynamometer instrumentation, pressure and flow measurement, data acquisition and reduction  
 **Analysis:** Pressure drop and head loss, heat transfer, turbomachinery performance, stability and flutter analysis  

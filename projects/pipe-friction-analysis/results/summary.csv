@@ -1,0 +1,4 @@
+pipe,re_min,re_max,f_measured_mean,f_theory_mean,ratio_mean,uncertainty_max_pct,exponent_n,exponent_r2
+13.6 mm smooth,9781.2131,16851.9695,0.0509,0.0283,1.8,2.0288,1.6167,0.9989
+26.2 mm smooth,4172.6996,5902.8434,0.1424,0.0368,3.8791,23.9693,2.2117,0.9804
+14 mm rough,3652.5544,8545.5989,0.355,0.0666,5.3306,8.4883,1.9893,0.9907

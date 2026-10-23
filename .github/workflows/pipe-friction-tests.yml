@@ -1,0 +1,25 @@
+name: Pipe friction analysis tests
+
+on:
+  push:
+    paths:
+      - "projects/pipe-friction-analysis/**"
+      - ".github/workflows/pipe-friction-tests.yml"
+  pull_request:
+    paths:
+      - "projects/pipe-friction-analysis/**"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: projects/pipe-friction-analysis
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: pytest -v
+      - run: python analyze.py
