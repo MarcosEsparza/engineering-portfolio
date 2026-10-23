@@ -132,21 +132,24 @@ I wrote a MATLAB tool that reads the OpenRocket trajectory, finds the maximum-ve
 **Configuration:** Modular fin can integrated with the 4 in fiberglass airframe  
 **Design goal:** Structural robustness and flutter margin for transonic flight
 
-| Planform | Side | Isometric |
-|:---:|:---:|:---:|
-| ![Aluminum fin can planform view](assets/img/fin-can-planform.png) | ![Aluminum fin can side view](assets/img/fin-can-side.png) | ![Aluminum fin can isometric view](assets/img/fin-can-isometric.png) |
+<div class="photo-grid cad">
+  <figure><img src="assets/img/fin-can-planform.png" alt="Aluminum fin can planform view"><figcaption>Planform</figcaption></figure>
+  <figure><img src="assets/img/fin-can-side.png" alt="Aluminum fin can side view"><figcaption>Side</figcaption></figure>
+  <figure><img src="assets/img/fin-can-isometric.png" alt="Aluminum fin can isometric view"><figcaption>Isometric</figcaption></figure>
+</div>
 
 ### Hardware Build
 
 The vehicle went from simulation and CAD to fabricated, flight-ready hardware.
 
-| Fin can | Fin can with motor retainer | Nose cone |
-|:---:|:---:|:---:|
-| ![Fabricated aluminum fin can installed on fiberglass airframe](assets/img/fin-can-fabricated.jpg) | ![Assembled aluminum fin can with motor retainer at the aft end](assets/img/fin-can-motor-retainer.jpg) | ![Fiberglass nose cone with metallic tip](assets/img/nose-cone.jpg) |
-
-| Airframe integration | Rail button | Recovery bulkhead |
-|:---:|:---:|:---:|
-| ![Bonded airframe section during fabrication](assets/img/airframe-integration.jpg) | ![Rail button installed on the airframe along a marked alignment line](assets/img/rail-button.jpg) | ![Bulkhead with eyebolt for the recovery harness](assets/img/recovery-bulkhead.jpg) |
+<div class="photo-grid">
+  <figure><img src="assets/img/fin-can-fabricated.jpg" alt="Fabricated aluminum fin can installed on fiberglass airframe"><figcaption>Fin can</figcaption></figure>
+  <figure><img src="assets/img/fin-can-motor-retainer.jpg" alt="Assembled aluminum fin can with motor retainer at the aft end"><figcaption>Fin can with motor retainer</figcaption></figure>
+  <figure><img src="assets/img/nose-cone.jpg" alt="Fiberglass nose cone with metallic tip"><figcaption>Nose cone</figcaption></figure>
+  <figure><img src="assets/img/airframe-integration.jpg" alt="Bonded airframe section during fabrication"><figcaption>Airframe integration</figcaption></figure>
+  <figure><img src="assets/img/rail-button.jpg" alt="Rail button installed on the airframe along a marked alignment line"><figcaption>Rail button</figcaption></figure>
+  <figure><img src="assets/img/recovery-bulkhead.jpg" alt="Bulkhead with eyebolt for the recovery harness"><figcaption>Recovery bulkhead</figcaption></figure>
+</div>
 
 ---
 

@@ -5,6 +5,12 @@
 
 // ===== DARK MODE OVERRIDES =====
 
+// Stop iPhone Safari from enlarging text in tables and narrow blocks
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
 // Page background
 body {
   background-color: #111 !important;
@@ -44,11 +50,6 @@ table {
   width: 100%;
 }
 
-// Photo grids get equal-width columns
-table:has(img) {
-  table-layout: fixed;
-}
-
 th, td {
   border-bottom: 1px solid #333 !important;
   color: #e8e8e8;
@@ -68,9 +69,41 @@ img, video {
   height: auto;
 }
 
-td img {
+// Photo grid: three across, two on phones, captions under each photo
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  margin: 0 0 20px;
+}
+
+.photo-grid figure {
+  margin: 0;
+  text-align: center;
+}
+
+.photo-grid img {
+  display: block;
   width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
   border-radius: 6px;
+}
+
+// CAD renders: show the whole part on white instead of cropping
+.photo-grid.cad img {
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+  background: #fff;
+  padding: 6px;
+  box-sizing: border-box;
+}
+
+.photo-grid figcaption {
+  color: #b8b8b8;
+  font-size: 0.8rem;
+  line-height: 1.3;
+  margin-top: 6px;
 }
 
 // Side-by-side videos that stack on narrow screens
@@ -203,7 +236,7 @@ header ul.links a:hover {
   }
 
   // Wide data tables scroll inside their own box instead of the whole page
-  table:not(:has(img)) {
+  table {
     display: block;
     overflow-x: auto;
   }
@@ -227,5 +260,12 @@ header ul.links a:hover {
 
   header ul.links a {
     padding: 5px 11px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .photo-grid:not(.cad) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
   }
 }
